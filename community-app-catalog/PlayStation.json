@@ -1,7 +1,7 @@
 {
   "name": "PlayStation",
   "description": "PlayStation platform ports and recreations",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -556,6 +556,20 @@
         "digimon",
         "playstation",
         "psxrecomp",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Valkyrie Profile",
+      "project": "ValkyrieRecomp",
+      "repository": "Ed1z19/ValkyrieRecomp",
+      "folderName": "ValkyrieProfile-ValkyrieRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/Ed1z19/ValkyrieRecomp/refs/heads/main/docs/valkyrie-recomp-logo.png",
+      "tags": [
+        "recomp",
+        "ps1",
+        "valkyrie profile",
+        "playstation",
         "recompilation"
       ]
     }

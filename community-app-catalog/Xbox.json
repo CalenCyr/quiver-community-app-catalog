@@ -1,7 +1,7 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -278,6 +278,34 @@
         "dantes inferno",
         "xbox",
         "rexglue",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Banjo-Kazooie: Nuts & Bolts",
+      "project": "reNut",
+      "repository": "masterspike52/reNut",
+      "folderName": "BanjoKazooieNutsAndBolts-reNut",
+      "appIconUrl": "https://raw.githubusercontent.com/masterspike52/reNut/refs/heads/main/icon/app.ico",
+      "tags": [
+        "recomp",
+        "x360",
+        "banjo",
+        "rexglue",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Lost Odyssey",
+      "project": "Lost Odyssey Recompiled",
+      "repository": "freefrank/LostOdysseyRecomp",
+      "folderName": "LostOdyssey-LostOdysseyRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/d9a9b1c43c045c597832a10e0a64f64e.jpg",
+      "tags": [
+        "recomp",
+        "x360",
+        "lost odyssey",
+        "xbox",
         "recompilation"
       ]
     }

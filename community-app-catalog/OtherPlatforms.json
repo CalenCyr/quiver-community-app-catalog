@@ -1,7 +1,7 @@
 {
   "name": "Other Platforms",
   "description": "Other platform ports and recompilations",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -118,6 +118,19 @@
         "sega",
         "initiald",
         "recompilation"
+      ]
+    },
+    {
+      "name": "Cut the Rope",
+      "project": "Cut the Rope: DX",
+      "repository": "yell0wsuit/cuttherope-dx",
+      "folderName": "CutTheRope-CutTheRopeDX",
+      "appIconUrl": "https://raw.githubusercontent.com/yell0wsuit/cuttherope-dx/refs/heads/main/distribution/icons/CutTheRopeDXIcon.ico",
+      "tags": [
+        "decomp",
+        "mobile",
+        "cut the rope",
+        "decompilation"
       ]
     }
   ]

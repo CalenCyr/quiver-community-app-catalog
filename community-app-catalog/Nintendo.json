@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -366,6 +366,20 @@
       ],
       "filesToAdd": [
         "portable.txt"
+      ]
+    },
+    {
+      "name": "Pokemon Snap",
+      "project": "Snap64 Recomp",
+      "repository": "JackandBeans/Snap64Recomp",
+      "folderName": "PokemonSnap-Snap64Recomp",
+      "appIconUrl": "https://raw.githubusercontent.com/JackandBeans/Snap64Recomp/refs/heads/main/src/snap64.ico",
+      "tags": [
+        "recomp",
+        "n64",
+        "pokemon",
+        "nintendo",
+        "recompilation"
       ]
     },
     {
@@ -1149,6 +1163,21 @@
         "mariokart",
         "nintendo",
         "gbarecomp",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Wave Race 64",
+      "project": "Wave Race 64: Recompiled",
+      "repository": "elliotttate/wave-race-64-recomp",
+      "folderName": "WaveRace64-WaveRace64Recompiled",
+      "appIconUrl": "https://raw.githubusercontent.com/elliotttate/wave-race-64-recomp/refs/heads/main/assets/AppIcon.ico",
+      "tags": [
+        "recomp",
+        "n64",
+        "wave race",
+        "nintendo",
+        "nintendo 64",
         "recompilation"
       ]
     }
