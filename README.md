@@ -238,3 +238,33 @@ Rules:
 | PlayStation platforms (PSX, PS2, etc.) | `PlayStation.json` |
 | Xbox platforms (Xbox 360, etc.) | `Xbox.json` |
 | PC, Sega, mobile, and other non-brand lists | `OtherPlatforms.json` |
+
+
+## Shared platform metadata
+
+`platform-index.json` is generated browsing metadata for community catalogs. The
+optional `platformMetadataUrl` in `index.json` lets newer launchers load platform
+coverage in one request. Older launchers ignore it. App entries and catalog review
+versions do not change when the index is refreshed.
+
+The **Publish platform metadata** workflow runs on catalog edits, manual dispatch,
+and at 00:17, 06:17, 12:17 and 18:17 UTC. It uses the repository-scoped GitHub Actions
+token and the launcher generator pinned to a full commit SHA in the workflow.
+Scheduled runs may be delayed or disabled by GitHub; timestamps describe the last
+successful check, not a guaranteed service interval.
+
+Do not hand-edit asset lists. Selection uses the launcher's Core release logic,
+including preferred releases and fallback from assetless/auxiliary-only releases.
+Entries include provider, normalized repository, preferred release, chosen tag,
+asset names, validation time and selection revision. The launcher applies each
+app's asset filter and platform policy; downloads resolve releases independently.
+
+Failed individual checks retain their previous successful entries and are listed
+in the workflow summary. Complete generation failures retain the previous file.
+Publication is validated before an atomic Git commit and never force-pushes.
+Missing metadata stays unverified in the launcher and can be checked explicitly.
+A successfully checked release with no usable assets is a valid empty result.
+
+To update the generator, validate its regression tests and generated output first,
+then replace the pinned commit SHA. Publish an initial compatible index before
+releasing a launcher that consumes a new format or selection revision.

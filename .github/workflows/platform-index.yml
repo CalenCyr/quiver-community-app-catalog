@@ -1,0 +1,68 @@
+name: Publish platform metadata
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'community-app-catalog/**.json'
+      - 'index.json'
+      - '.github/workflows/platform-index.yml'
+  workflow_dispatch:
+  schedule:
+    # Off the top of the hour. GitHub schedules are best-effort, not a freshness guarantee.
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: community-platform-metadata
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Check out current catalogs
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+          path: catalogs
+      - name: Check out tested launcher generator
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          repository: tgeorgiadis/quiver-launcher
+          ref: a77ef4f4409fd998c1e61c9e8ccf21f230dd6c75
+          path: launcher
+          persist-credentials: false
+      - name: Set up .NET
+        uses: actions/setup-dotnet@67a3573c9a986a3f9c594539f4ab511d57bb3ce9 # v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Generate validated platform index
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: >-
+          dotnet run --project launcher/tools/QuiverLauncher.PlatformIndex -c Release --
+          catalogs/community-app-catalog catalogs/platform-index.json
+      - name: Validate publication
+        run: >-
+          dotnet run --no-build --project launcher/tools/QuiverLauncher.PlatformIndex -c Release --
+          --validate catalogs/platform-index.json
+      - name: Publish atomically
+        working-directory: catalogs
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- platform-index.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Refresh shared platform metadata'
+          # Fail safely on a conflict; never overwrite catalog edits or force-push.
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Report failed publication
+        if: failure()
+        run: echo 'Generation or publication failed. The last successfully published platform-index.json remains available.' >> "$GITHUB_STEP_SUMMARY"
