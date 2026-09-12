@@ -1,7 +1,7 @@
 {
   "name": "Other Platforms",
   "description": "Other platform ports and recompilations",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -131,6 +131,18 @@
         "mobile",
         "cut the rope",
         "decompilation"
+      ]
+    },
+    {
+      "name": "OutRun",
+      "project": "CannonBall DX",
+      "repository": "Endprodukt/cannonball-dx",
+      "folderName": "OutRun-CannonBallDX",
+      "appIconUrl": "https://raw.githubusercontent.com/Endprodukt/cannonball-dx/refs/heads/master/screenshots/CannonballDX.png",
+      "tags": [
+        "recreation",
+        "arcade",
+        "outrun"
       ]
     }
   ]
