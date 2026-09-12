@@ -1,7 +1,8 @@
 {
   "name": "PlayStation",
   "description": "PlayStation platform ports and recreations",
-  "version": "1.0.9",
+  "version": "1.0.10",
+  "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/d5fe8b674699f542537c1694284ea239.png",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -35,6 +36,21 @@
       ]
     },
     {
+      "name": "Bloody Roar II",
+      "project": "BloodyRoar2Recomp",
+      "repository": "novapowers0/BloodyRoar2Recomp",
+      "folderName": "BloodyRoarII-BloodyRoar2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/600ec019e03ab20d98ba29e4119d2145.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "bloody roar",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
       "name": "Crash Team Racing",
       "project": "CTR Native",
       "repository": "CTR-tools/ctr-native",
@@ -47,6 +63,21 @@
         "playstation",
         "playstation 1",
         "decompilation"
+      ]
+    },
+    {
+      "name": "Crash Bandicoot 2: Cortex Strikes Back",
+      "project": "Crash2Recomp",
+      "repository": "Zumbo06/Crash2Recomp",
+      "folderName": "CrashBandicoot2CortexStrikesBack-Crash2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/2e02a0ecd0489fd25090bb40edba1068.jpg",
+      "tags": [
+        "recomp",
+        "psx",
+        "crash bandicoot",
+        "sony",
+        "playstation",
+        "recompilation"
       ]
     },
     {
@@ -238,6 +269,21 @@
         "recomp",
         "ps1",
         "twisted metal",
+        "playstation",
+        "playstation 1",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Mega Man X5",
+      "project": "MegaManX5Recomp",
+      "repository": "mstan/MegaManX5Recomp",
+      "folderName": "MegaManX5-MegaManX5Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/71863873e66ece1e697fa9d41b20df8a.jpg",
+      "tags": [
+        "recomp",
+        "psx",
+        "mega man",
         "playstation",
         "playstation 1",
         "recompilation"
@@ -466,6 +512,21 @@
         "playstation",
         "playstation 1",
         "decompilation"
+      ]
+    },
+    {
+      "name": "Strider 2",
+      "project": "Strider 2 Recompiled",
+      "repository": "strider973/STRIDER-2-Recompiled",
+      "folderName": "Strider2-Strider2Recompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/fb92a16f938b4fd77dccfb23f62ba5b0.jpg",
+      "tags": [
+        "recomp",
+        "ps1",
+        "strider",
+        "playstation",
+        "playstation 1",
+        "recompilation"
       ]
     },
     {

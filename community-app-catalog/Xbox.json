@@ -1,7 +1,8 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.8",
+  "version": "1.0.9",
+  "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/542b9ce5413bbceea136fecb513df4c3.png",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -27,6 +28,21 @@
         "recomp",
         "x360",
         "sonic",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Deadly Premonition",
+      "project": "DPRecomp",
+      "repository": "LittleBitUA/DPRecomp",
+      "folderName": "DeadlyPremonition-DPRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/LittleBitUA/DPRecomp/refs/heads/master/src/deadlyprem.ico",
+      "tags": [
+        "recomp",
+        "x360",
+        "deadly premonition",
         "xbox",
         "xbox 360",
         "recompilation"

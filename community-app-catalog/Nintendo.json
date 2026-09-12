@@ -1,7 +1,8 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.8",
+  "version": "1.0.9",
+  "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -511,6 +512,21 @@
       }
     },
     {
+      "name": "Star Fox [Enhanced]",
+      "project": "Star Fox Enhanced",
+      "repository": "kandowontu/starfox-enhanced",
+      "folderName": "StarFox-StarFoxEnhanced",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/5aa21a1dc1384e4fc536bf600fc104d9.jpg",
+      "tags": [
+        "decomp",
+        "snes",
+        "star fox",
+        "nintendo",
+        "super nintendo entertainment system",
+        "decompilation"
+      ]
+    },
+    {
       "name": "Banjo-Kazooie",
       "project": "Lighthouse",
       "repository": "HarbourMasters/Lighthouse",
@@ -556,6 +572,20 @@
       }
     },
     {
+      "name": "The Legend of Zelda: Ocarina of Time 3D",
+      "project": "TriAevum",
+      "repository": "coccofresco/TriAevum",
+      "folderName": "TheLegendOfZeldaOcarinaOfTime3D-TriAevum",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/62e69a2705de56b496dff524ba8f9b6a.jpg",
+      "tags": [
+        "recomp",
+        "3ds",
+        "zelda",
+        "nintendo",
+        "recompilation"
+      ]
+    },
+    {
       "name": "The Legend of Zelda: Majora's Mask",
       "project": "2 Ship 2 Harkinian",
       "repository": "harbourmasters/2ship2harkinian",
@@ -583,6 +613,21 @@
           }
         ]
       }
+    },
+    {
+      "name": "Soulcalibur II",
+      "project": "Ring Out",
+      "repository": "jackpoison-prog/RingOut",
+      "folderName": "SoulcaliburII-RingOut",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/253fe45a579d28e774cafa6f9e7f04d7.jpg",
+      "tags": [
+        "recomp",
+        "gcn",
+        "soulcalibur",
+        "nintendo",
+        "gamecube",
+        "recompilation"
+      ]
     },
     {
       "name": "Mario Kart 64",
@@ -758,6 +803,21 @@
         "f-zero",
         "nintendo",
         "nintendo 64",
+        "decompilation"
+      ]
+    },
+    {
+      "name": "Pikmin",
+      "project": "Open Nectar",
+      "repository": "SSunnKing/Open-Nectar---Pikmin-Native-PC-Port",
+      "folderName": "Pikmin-OpenNectar",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/ed02e8478720e5c7c77f780ddd471ab2.jpg",
+      "tags": [
+        "decomp",
+        "gcn",
+        "pikmin",
+        "nintendo",
+        "gamecube",
         "decompilation"
       ]
     },
@@ -1121,6 +1181,51 @@
       ],
       "filesToAdd": [
         "portable.txt"
+      ]
+    },
+    {
+      "name": "Donkey Kong Country",
+      "project": "DKC1Recomp",
+      "repository": "elliotttate/DKC1Recomp",
+      "folderName": "DonkeyKongCountry-DKC1Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/ab9d867904cd28aa15dad078d8672de4.png",
+      "tags": [
+        "recomp",
+        "snes",
+        "donkey kong",
+        "nintendo",
+        "super nintendo entertainment system",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+      "project": "DKC2Recomp",
+      "repository": "elliotttate/DKC2Recomp",
+      "folderName": "DonkeyKongCountry2DiddysKongQuest-DKC2Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/0da0492d21cf85a674d21bc63666df47.jpg",
+      "tags": [
+        "recomp",
+        "snes",
+        "donkey kong",
+        "nintendo",
+        "super nintendo entertainment system",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
+      "project": "DKC3Recomp",
+      "repository": "elliotttate/DKC3Recomp",
+      "folderName": "DonkeyKongCountry3DixieKongsDoubleTrouble-DKC3Recomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/a767ca8c832642ebf919de608e8cb61f.jpg",
+      "tags": [
+        "recomp",
+        "snes",
+        "donkey kong",
+        "nintendo",
+        "super nintendo entertainment system",
+        "recompilation"
       ]
     },
     {
