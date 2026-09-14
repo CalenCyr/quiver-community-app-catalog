@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
@@ -399,11 +399,12 @@
       ]
     },
     {
-      "name": "Pokemon FireRed and LeafGreen",
+      "name": "Pokemon FireRed",
       "project": "FireRedLeafGreenRecomp",
       "repository": "mstan/FireRedLeafGreenRecomp",
-      "folderName": "PokemonFireRedAndLeafGreen-FireRedLeafGreenRecomp",
-      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/640117fcf8c96f9c290af6bf17b0d947.jpg",
+      "releaseAssetFilter": "FireRed",
+      "folderName": "PokemonFireRed-FireRedLeafGreenRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/adc841489e92cba6253b5c6311a61e6a.jpg",
       "tags": [
         "recomp",
         "gba",
@@ -414,11 +415,44 @@
       ]
     },
     {
-      "name": "Pokemon Ruby and Sapphire",
+      "name": "Pokemon LeafGreen",
+      "project": "FireRedLeafGreenRecomp",
+      "repository": "mstan/FireRedLeafGreenRecomp",
+      "releaseAssetFilter": "LeafGreen",
+      "folderName": "PokemonLeafGreen-FireRedLeafGreenRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/a547c98fa0feb57d944b8d147d870cf4.jpg",
+      "tags": [
+        "recomp",
+        "gba",
+        "pokemon",
+        "nintendo",
+        "game boy advance",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Pokemon Ruby",
       "project": "RubySapphireRecomp",
       "repository": "mstan/RubySapphireRecomp",
-      "folderName": "PokemonRubyAndSapphire-RubySapphireRecomp",
+      "releaseAssetFilter": "Ruby",
+      "folderName": "PokemonRuby-RubySapphireRecomp",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/1002b558bb5093bf7b4829c35b0bb690.jpg",
+      "tags": [
+        "recomp",
+        "gba",
+        "pokemon",
+        "nintendo",
+        "game boy advance",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Pokemon Sapphire",
+      "project": "RubySapphireRecomp",
+      "repository": "mstan/RubySapphireRecomp",
+      "releaseAssetFilter": "Sapphire",
+      "folderName": "PokemonSapphire-RubySapphireRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/3bef35f9bce29766757f14d3d5885b55.jpg",
       "tags": [
         "recomp",
         "gba",
