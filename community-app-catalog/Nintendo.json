@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
@@ -793,6 +793,21 @@
       ]
     },
     {
+      "name": "Super Smash Bros. Melee",
+      "project": "melee-pc",
+      "repository": "999sian/melee-pc",
+      "folderName": "SuperSmashBrosMelee-MeleePC",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/0aa21e9e51bfb74793881e5780d29ae8.jpg",
+      "tags": [
+        "decomp",
+        "gcn",
+        "super smash bros",
+        "nintendo",
+        "gamecube",
+        "decompilation"
+      ]
+    },
+    {
       "name": "Diddy Kong Racing",
       "project": "Golden Balloon",
       "repository": "akratch/goldenballoon",
@@ -1299,9 +1314,23 @@
       "tags": [
         "recomp",
         "gba",
-        "mariokart",
+        "mario kart",
         "nintendo",
         "gbarecomp",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Mario Kart Wii",
+      "project": "Mario Kart WiiCompiled",
+      "repository": "patchzyy/Wiicompiled",
+      "folderName": "MarioKartWii-MarioKartWiiCompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/f2eee54b9c0e3679492300ee8bb3510b.jpg",
+      "tags": [
+        "recomp",
+        "wii",
+        "mario kart",
+        "nintendo",
         "recompilation"
       ]
     },

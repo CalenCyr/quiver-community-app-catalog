@@ -1,7 +1,7 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/542b9ce5413bbceea136fecb513df4c3.png",
   "preferredTagFilters": [
     "recomp",
@@ -93,7 +93,17 @@
         "xbox",
         "xbox 360",
         "recompilation"
-      ]
+      ],
+      "mods": {
+        "path": "mods",
+        "layout": "folderPerMod",
+        "sources": [
+          {
+            "provider": "thunderstore",
+            "sourceUrl": "https://thunderstore.io/c/viva-pinata-trouble-in-paradise-recompiled/"
+          }
+        ]
+      }
     },
     {
       "name": "Silent Hill: Downpour",
@@ -202,6 +212,7 @@
         "x360",
         "condemned",
         "rexglue",
+        "xbox",
         "xbox 360",
         "recompilation"
       ]
@@ -217,8 +228,9 @@
         "recomp",
         "x360",
         "exit",
-        "xbox",
         "rexglue",
+        "xbox",
+        "xbox 360",
         "recompilation"
       ]
     },
@@ -233,8 +245,9 @@
         "recomp",
         "x360",
         "exit",
-        "xbox",
         "rexglue",
+        "xbox",
+        "xbox 360",
         "recompilation"
       ]
     },
@@ -247,8 +260,10 @@
       "tags": [
         "recomp",
         "x360",
-        "xbox",
+        "ufc",
         "rexglue",
+        "xbox",
+        "xbox 360",
         "recompilation"
       ]
     },
@@ -262,8 +277,9 @@
         "recomp",
         "x360",
         "xmen",
-        "xbox",
         "rexglue",
+        "xbox",
+        "xbox 360",
         "recompilation"
       ]
     },
@@ -277,8 +293,9 @@
         "recomp",
         "x360",
         "dragon ball",
-        "xbox",
         "rexglue",
+        "xbox",
+        "xbox 360",
         "recompilation"
       ]
     },
@@ -292,8 +309,9 @@
         "recomp",
         "x360",
         "dantes inferno",
-        "xbox",
         "rexglue",
+        "xbox",
+        "xbox 360",
         "recompilation"
       ]
     },
@@ -308,6 +326,8 @@
         "x360",
         "banjo",
         "rexglue",
+        "xbox",
+        "xbox 360",
         "recompilation"
       ]
     },
@@ -322,6 +342,23 @@
         "x360",
         "lost odyssey",
         "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Spider-Man: Edge of Time",
+      "project": "Spider-Man Edge of Time PC Edition",
+      "repository": "GenryTheFox/Spider-Man-Edge-of-Time-PC-Edition",
+      "folderName": "SpiderManEdgeOfTime-SpiderManEdgeOfTimePCEdition",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/029f84a421686539e43364412f54bd5b.jpg",
+      "tags": [
+        "recomp",
+        "x360",
+        "spider man",
+        "rexglue",
+        "xbox",
+        "xbox 360",
         "recompilation"
       ]
     }
