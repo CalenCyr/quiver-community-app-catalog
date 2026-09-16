@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
@@ -1332,6 +1332,35 @@
         "mario kart",
         "nintendo",
         "recompilation"
+      ]
+    },
+    {
+      "name": "Mario Kart Wii",
+      "project": "KartPad",
+      "repository": "chrissotraidis/kartpad",
+      "folderName": "MarioKartWii-KartPad",
+      "appIconUrl": "https://raw.githubusercontent.com/chrissotraidis/kartpad/refs/heads/main/branding/exports/KartPadIcon-1024.png",
+      "tags": [
+        "recomp",
+        "wii",
+        "mario kart",
+        "nintendo",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Super Mario Strikers",
+      "project": "Strikers",
+      "repository": "new-coke/strikers",
+      "folderName": "SuperMarioStrikers-Strikers",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/2c4382e543e27eb8e75b66d806853e74.jpg",
+      "tags": [
+        "decomp",
+        "gcn",
+        "mario",
+        "nintendo",
+        "gamecube",
+        "decompilation"
       ]
     },
     {

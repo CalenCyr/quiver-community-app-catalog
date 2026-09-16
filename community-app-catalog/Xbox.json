@@ -1,7 +1,7 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/542b9ce5413bbceea136fecb513df4c3.png",
   "preferredTagFilters": [
     "recomp",
@@ -341,22 +341,6 @@
         "recomp",
         "x360",
         "lost odyssey",
-        "xbox",
-        "xbox 360",
-        "recompilation"
-      ]
-    },
-    {
-      "name": "Spider-Man: Edge of Time",
-      "project": "Spider-Man Edge of Time PC Edition",
-      "repository": "GenryTheFox/Spider-Man-Edge-of-Time-PC-Edition",
-      "folderName": "SpiderManEdgeOfTime-SpiderManEdgeOfTimePCEdition",
-      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/029f84a421686539e43364412f54bd5b.jpg",
-      "tags": [
-        "recomp",
-        "x360",
-        "spider man",
-        "rexglue",
         "xbox",
         "xbox 360",
         "recompilation"
