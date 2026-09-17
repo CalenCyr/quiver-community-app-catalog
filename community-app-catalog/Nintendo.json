@@ -1,7 +1,7 @@
 {
   "name": "Nintendo",
   "description": "Nintendo platform ports and recreations",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/e260cb761dbaa59a1568e65c872a0951.png",
   "preferredTagFilters": [
     "recomp",
@@ -76,6 +76,21 @@
           }
         ]
       }
+    },
+    {
+      "name": "Beetle Adventure Racing!",
+      "project": "Beetle Adventure Racing! Recomp",
+      "repository": "danielgomesvieira2000/beetle-adventure-racing-recomp",
+      "folderName": "BeetleAdventureRacing-BeetleAdventureRacingRecomp",
+      "appIconUrl": "https://raw.githubusercontent.com/danielgomesvieira2000/beetle-adventure-racing-recomp/refs/heads/main/icons/Icon.png",
+      "tags": [
+        "recomp",
+        "n64",
+        "beetle adventure racing",
+        "nintendo",
+        "nintendo 64",
+        "recompilation"
+      ]
     },
     {
       "name": "Bomberman 64",
@@ -808,6 +823,21 @@
       ]
     },
     {
+      "name": "Super Mario All-Stars",
+      "project": "SMAS Launcher",
+      "repository": "qurious-pixel/SMAS_Launcher",
+      "folderName": "SuperMarioAllStars-SMASLauncher",
+      "appIconUrl": "https://raw.githubusercontent.com/qurious-pixel/SMAS_Launcher/refs/heads/main/assets/icon.png",
+      "tags": [
+        "decomp",
+        "snes",
+        "mario",
+        "nintendo",
+        "super nintendo entertainment system",
+        "decompilation"
+      ]
+    },
+    {
       "name": "Diddy Kong Racing",
       "project": "Golden Balloon",
       "repository": "akratch/goldenballoon",
@@ -1349,6 +1379,22 @@
       ]
     },
     {
+      "name": "Paper Mario",
+      "project": "PaperBoat",
+      "repository": "HarbourMasters/PaperBoat",
+      "folderName": "PaperMario-PaperBoat",
+      "appIconUrl": "https://raw.githubusercontent.com/HarbourMasters/PaperBoat/refs/heads/develop/paperboat.ico",
+      "tags": [
+        "decomp",
+        "n64",
+        "paper mario",
+        "harbour masters",
+        "nintendo",
+        "nintendo 64",
+        "decompilation"
+      ]
+    },
+    {
       "name": "Super Mario Strikers",
       "project": "Strikers",
       "repository": "new-coke/strikers",
@@ -1369,6 +1415,21 @@
       "repository": "elliotttate/wave-race-64-recomp",
       "folderName": "WaveRace64-WaveRace64Recompiled",
       "appIconUrl": "https://raw.githubusercontent.com/elliotttate/wave-race-64-recomp/refs/heads/main/assets/AppIcon.ico",
+      "tags": [
+        "recomp",
+        "n64",
+        "wave race",
+        "nintendo",
+        "nintendo 64",
+        "recompilation"
+      ]
+    },
+    {
+      "name": "Wave Race 64",
+      "project": "RaceWave46",
+      "repository": "DomazinUS/RaceWave46",
+      "folderName": "WaveRace64-RaceWave46",
+      "appIconUrl": "https://raw.githubusercontent.com/DomazinUS/RaceWave46/refs/heads/main/assets/manual/RaceWave46_logo_noBackground.png",
       "tags": [
         "recomp",
         "n64",

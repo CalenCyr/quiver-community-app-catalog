@@ -1,7 +1,7 @@
 {
   "name": "Xbox",
   "description": "Xbox platform ports and recreations",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "iconUrl": "https://cdn2.steamgriddb.com/icon_thumb/542b9ce5413bbceea136fecb513df4c3.png",
   "preferredTagFilters": [
     "recomp",
@@ -104,6 +104,21 @@
           }
         ]
       }
+    },
+    {
+      "name": "Ninja Gaiden II",
+      "project": "Ninja's Dawn",
+      "repository": "TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project",
+      "folderName": "NinjaGaidenII-NinjasDawn",
+      "tags": [
+        "recomp",
+        "x360",
+        "ninja gaiden",
+        "rexglue",
+        "xbox",
+        "xbox 360",
+        "recompilation"
+      ]
     },
     {
       "name": "Silent Hill: Downpour",
