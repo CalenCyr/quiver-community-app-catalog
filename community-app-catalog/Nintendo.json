@@ -31,7 +31,25 @@
     "decompilation",
     "recompilation"
   ],
-  "apps": [
+  "apps": [{
+      "name": "AeroGauge",
+      "project": "AeroGauge: Recompiled",
+      "repository": "alondero/aerogauge-recomp",
+      "folderName": "AeroGauge-AeroGaugeRecompiled",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/dc898d5e41b3565e59bf91133acbd85e.png",
+      "tags": [
+        "recomp",
+        "n64",
+        "aerogauge",
+        "nintendo",
+        "nintendo 64",
+        "recompilation"
+      ],
+      "filesToAdd": [
+        "portable.txt"
+      ]
+    },
+    
     {
       "name": "Automobili Lamborghini",
       "project": "Automobili Lamborghini: Recompiled",
@@ -495,6 +513,28 @@
         "portable.txt"
       ]
     },
+  {
+      "name": "Road Rash 64",
+      "project": "RoadRash64Recompiled",
+      "repository": "linkssy2/RoadRash64Recompiled",
+      "folderName": "RoadRash64-RoadRash64Recompiled",
+      "appIconUrl": "https://raw.githubusercontent.com/linkssy2/RoadRash64Recompiled/refs/heads/main/native/assets/RoadRashIcon.png",
+      "tags": [
+        "recomp",
+        "n64",
+        "Road Rash",
+        "Road Rash 64",
+        "racing",
+        "sports",
+        "nintendo",
+        "nintendo 64",
+        "recompilation"
+      ],
+      "filesToAdd": [
+        "portable.txt"
+      ]
+    },
+    
     {
       "name": "Snowboard Kids 2",
       "project": "Snowboard Kids 2: Recompiled",
@@ -1436,6 +1476,21 @@
         "wave race",
         "nintendo",
         "nintendo 64",
+        "recompilation"
+      ]
+    },
+        {
+      "name": "Super Metroid",
+      "project": "SuperMetroidSNESRecomp",
+      "repository": "mstan/SuperMetroidRecomp",
+      "folderName": "SuperMetroid-SuperMetroidRecomp",
+      "appIconUrl": "https://cdn2.steamgriddb.com/thumb/e5cf20f10bf632fb74542a536ef1aa95.jpg",
+      "tags": [
+        "recomp",
+        "snes",
+        "metroid",
+        "nintendo",
+        "super nintendo entertainment system",
         "recompilation"
       ]
     }
