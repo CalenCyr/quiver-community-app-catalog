@@ -1,6 +1,6 @@
 {
   "formatRevision": 1,
-  "generatedAt": "2026-10-01T22:45:45.1842617+00:00",
+  "generatedAt": "2026-10-02T05:47:37.4487683+00:00",
   "entries": [
     {
       "provider": "github",
@@ -19,7 +19,7 @@
         "Melee-Windows-x86_64.zip",
         "Melee-x86_64.AppImage"
       ],
-      "validatedAt": "2026-10-01T22:44:49.6442904+00:00",
+      "validatedAt": "2026-10-02T05:46:50.2570976+00:00",
       "selectionRevision": 1
     },
     {
@@ -36,7 +36,7 @@
         "tmc-multi-windows-arm64-v0.9.5.tar.gz",
         "tmc-multi-windows-x86_64-v0.9.5.tar.gz"
       ],
-      "validatedAt": "2026-10-01T22:44:49.8297299+00:00",
+      "validatedAt": "2026-10-02T05:46:50.4046993+00:00",
       "selectionRevision": 1
     },
     {
@@ -54,7 +54,7 @@
         "Golden-Balloon-1.7.0-windows-x64.zip",
         "Golden-Balloon-1.7.0-windows-x64.zip.provenance.json"
       ],
-      "validatedAt": "2026-10-01T22:44:49.9873226+00:00",
+      "validatedAt": "2026-10-02T05:46:50.5095612+00:00",
       "selectionRevision": 1
     },
     {
@@ -65,7 +65,7 @@
       "assetNames": [
         "mc2-win64-v0.1.3.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:50.1467671+00:00",
+      "validatedAt": "2026-10-02T05:46:50.6469748+00:00",
       "selectionRevision": 1
     },
     {
@@ -80,7 +80,7 @@
         "syphon-filter-2-recomp-0.2.0-macos-x64.zip",
         "syphon-filter-2-recomp-0.2.0-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:50.472916+00:00",
+      "validatedAt": "2026-10-02T05:46:50.925758+00:00",
       "selectionRevision": 1
     },
     {
@@ -95,7 +95,7 @@
         "alien-resurrection-recomp-0.1.3-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:50.6498628+00:00",
+      "validatedAt": "2026-10-02T05:46:51.0663383+00:00",
       "selectionRevision": 1
     },
     {
@@ -109,7 +109,7 @@
         "Alone-in-the-Dark-The-New-Nightmare-Recompiled-0.3.6-macos-x64.zip",
         "Alone-in-the-Dark-The-New-Nightmare-Recompiled-0.3.6-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:50.8228743+00:00",
+      "validatedAt": "2026-10-02T05:46:51.2173016+00:00",
       "selectionRevision": 1
     },
     {
@@ -123,7 +123,7 @@
         "Alundra-Recomp-0.3.6-macos-x64.zip",
         "Alundra-Recomp-0.3.6-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:51.030216+00:00",
+      "validatedAt": "2026-10-02T05:46:51.3212805+00:00",
       "selectionRevision": 1
     },
     {
@@ -138,7 +138,7 @@
         "apocalypse-0.1.1-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:51.198873+00:00",
+      "validatedAt": "2026-10-02T05:46:51.4498301+00:00",
       "selectionRevision": 1
     },
     {
@@ -153,7 +153,7 @@
         "crash-bandicoot-3-warped-0.1.1-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:51.3550258+00:00",
+      "validatedAt": "2026-10-02T05:46:51.5588946+00:00",
       "selectionRevision": 1
     },
     {
@@ -168,7 +168,7 @@
         "diablo-recomp-0.1.3-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:51.5623259+00:00",
+      "validatedAt": "2026-10-02T05:46:51.721852+00:00",
       "selectionRevision": 1
     },
     {
@@ -183,7 +183,7 @@
         "dino-crisis-2-0.1.1-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:51.7422737+00:00",
+      "validatedAt": "2026-10-02T05:46:51.8471803+00:00",
       "selectionRevision": 1
     },
     {
@@ -198,7 +198,7 @@
         "dino-crisis-0.1.1-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:51.8982337+00:00",
+      "validatedAt": "2026-10-02T05:46:51.9973421+00:00",
       "selectionRevision": 1
     },
     {
@@ -213,7 +213,7 @@
         "final-fantasy-ix-0.1.1-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:52.0603915+00:00",
+      "validatedAt": "2026-10-02T05:46:52.1252531+00:00",
       "selectionRevision": 1
     },
     {
@@ -228,7 +228,7 @@
         "final-fantasy-viii-0.1.1-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:52.2168198+00:00",
+      "validatedAt": "2026-10-02T05:46:52.2462+00:00",
       "selectionRevision": 1
     },
     {
@@ -243,7 +243,7 @@
         "metal-gear-solid-0.1.1-windows-x64.zip",
         "RELEASE-MANIFEST.json"
       ],
-      "validatedAt": "2026-10-01T22:44:52.3871523+00:00",
+      "validatedAt": "2026-10-02T05:46:52.3887287+00:00",
       "selectionRevision": 1
     },
     {
@@ -258,7 +258,7 @@
         "resident-evil-3-0.1.1-macos-x64.zip",
         "resident-evil-3-0.1.1-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:52.5526751+00:00",
+      "validatedAt": "2026-10-02T05:46:52.5410506+00:00",
       "selectionRevision": 1
     },
     {
@@ -273,7 +273,7 @@
         "suikodenii-0.1.0-macos-x64.zip",
         "suikodenii-0.1.0-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:52.7150042+00:00",
+      "validatedAt": "2026-10-02T05:46:52.6557058+00:00",
       "selectionRevision": 1
     },
     {
@@ -288,7 +288,7 @@
         "suikoden-0.1.1-macos-x64.zip",
         "suikoden-0.1.1-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:52.8576481+00:00",
+      "validatedAt": "2026-10-02T05:46:52.7529569+00:00",
       "selectionRevision": 1
     },
     {
@@ -308,7 +308,7 @@
         "openjazz-wii.zip",
         "openjazz-windows-mingw-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:53.1421031+00:00",
+      "validatedAt": "2026-10-02T05:46:52.9953017+00:00",
       "selectionRevision": 1
     },
     {
@@ -321,7 +321,7 @@
         "Windows32-Debug-relive-binaries.zip",
         "Windows64-Debug-relive-binaries.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:53.3221359+00:00",
+      "validatedAt": "2026-10-02T05:46:53.1149865+00:00",
       "selectionRevision": 1
     },
     {
@@ -334,7 +334,7 @@
         "aerogauge-recomp-linux-x64.zip",
         "aerogauge-recomp-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:53.5192614+00:00",
+      "validatedAt": "2026-10-02T05:46:53.2916295+00:00",
       "selectionRevision": 1
     },
     {
@@ -347,7 +347,7 @@
         "lamborghini-recomp-linux-x64.zip",
         "lamborghini-recomp-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:53.6911321+00:00",
+      "validatedAt": "2026-10-02T05:46:53.4808521+00:00",
       "selectionRevision": 1
     },
     {
@@ -361,7 +361,7 @@
         "BanjoRecompiled-v1.0.2-macOS.zip",
         "BanjoRecompiled-v1.0.2-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:53.8626165+00:00",
+      "validatedAt": "2026-10-02T05:46:53.5882803+00:00",
       "selectionRevision": 1
     },
     {
@@ -372,23 +372,23 @@
       "assetNames": [
         "PGR4-Recomp-v1.2.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:54.0282217+00:00",
+      "validatedAt": "2026-10-02T05:46:53.7375784+00:00",
       "selectionRevision": 1
     },
     {
       "provider": "github",
       "repository": "birabittoh/eternalsonatareprise",
       "preferredRelease": null,
-      "releaseTag": "v1.2.4",
+      "releaseTag": "v1.2.5",
       "assetNames": [
-        "eternalsonata-v1.2.4-android-arm64.apk",
-        "eternalsonata-v1.2.4-linux-amd64.tar.gz",
-        "eternalsonata-v1.2.4-linux-arm64.tar.gz",
-        "eternalsonata-v1.2.4-mac-amd64.dmg",
-        "eternalsonata-v1.2.4-mac-arm64.dmg",
-        "eternalsonata-v1.2.4-win-amd64.zip"
+        "eternalsonata-v1.2.5-android-arm64.apk",
+        "eternalsonata-v1.2.5-linux-amd64.tar.gz",
+        "eternalsonata-v1.2.5-linux-arm64.tar.gz",
+        "eternalsonata-v1.2.5-mac-amd64.dmg",
+        "eternalsonata-v1.2.5-mac-arm64.dmg",
+        "eternalsonata-v1.2.5-win-amd64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:54.1990599+00:00",
+      "validatedAt": "2026-10-02T05:46:53.8826763+00:00",
       "selectionRevision": 1
     },
     {
@@ -402,7 +402,7 @@
         "kameorepowered-v0.2.1-linux-x64.tar.gz",
         "kameorepowered-v0.2.1-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:54.3465645+00:00",
+      "validatedAt": "2026-10-02T05:46:53.999223+00:00",
       "selectionRevision": 1
     },
     {
@@ -417,7 +417,7 @@
         "SymphonyRecomp-v0.5.1b-windows-arm64.zip",
         "SymphonyRecomp-v0.5.1b-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:54.5236112+00:00",
+      "validatedAt": "2026-10-02T05:46:54.1696436+00:00",
       "selectionRevision": 1
     },
     {
@@ -433,28 +433,28 @@
         "infinite-mario-64-ever.v0.1.5.web.zip",
         "infinite-mario-64-ever.v0.1.5.windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:54.6787246+00:00",
+      "validatedAt": "2026-10-02T05:46:54.3081148+00:00",
       "selectionRevision": 1
     },
     {
       "provider": "github",
       "repository": "bryanthaboi/pokemon-gen1-recomp-project",
       "preferredRelease": null,
-      "releaseTag": "v0.3.43",
+      "releaseTag": "v0.3.44",
       "assetNames": [
-        "gen1recomp\u002B\u002B-0.3.43-ios.ipa",
-        "gen1recomp-0.3.43-android.apk",
-        "gen1recomp-0.3.43-linux-arm64.AppImage",
-        "gen1recomp-0.3.43-linux-x86_64.AppImage",
-        "gen1recomp-0.3.43-macos.zip",
-        "gen1recomp-0.3.43-rg34xxsp-stockos64-mod.zip",
-        "gen1recomp-0.3.43-sbc-portmaster.zip",
-        "gen1recomp-0.3.43-switch.zip",
-        "gen1recomp-0.3.43-windows.zip",
-        "gen1recomp-0.3.43-xbox-uwp.zip",
-        "gen1recomp-0.3.43.love"
+        "gen1recomp\u002B\u002B-0.3.44-ios.ipa",
+        "gen1recomp-0.3.44-android.apk",
+        "gen1recomp-0.3.44-linux-arm64.AppImage",
+        "gen1recomp-0.3.44-linux-x86_64.AppImage",
+        "gen1recomp-0.3.44-macos.zip",
+        "gen1recomp-0.3.44-rg34xxsp-stockos64-mod.zip",
+        "gen1recomp-0.3.44-sbc-portmaster.zip",
+        "gen1recomp-0.3.44-switch.zip",
+        "gen1recomp-0.3.44-windows.zip",
+        "gen1recomp-0.3.44-xbox-uwp.zip",
+        "gen1recomp-0.3.44.love"
       ],
-      "validatedAt": "2026-10-01T22:44:54.9906511+00:00",
+      "validatedAt": "2026-10-02T05:46:54.5316482+00:00",
       "selectionRevision": 1
     },
     {
@@ -474,7 +474,7 @@
         "julius-1.8.0-vita.vpk",
         "julius-1.8.0-windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:55.1968272+00:00",
+      "validatedAt": "2026-10-02T05:46:54.6788784+00:00",
       "selectionRevision": 1
     },
     {
@@ -487,7 +487,7 @@
         "OpenCiv3_0.3-Dutch-Mac.zip",
         "OpenCiv3_0.3-Dutch-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:55.406525+00:00",
+      "validatedAt": "2026-10-02T05:46:54.7945839+00:00",
       "selectionRevision": 1
     },
     {
@@ -501,7 +501,7 @@
         "SnowboardKids2Recompiled-macOS-Release.zip",
         "SnowboardKids2Recompiled-Windows-RelWithDebInfo.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:55.5700862+00:00",
+      "validatedAt": "2026-10-02T05:46:54.9321591+00:00",
       "selectionRevision": 1
     },
     {
@@ -514,7 +514,7 @@
         "SSSVRecompiled_v0.2.0_macOS.zip",
         "SSSVRecompiled_v0.2.0_Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:55.7496636+00:00",
+      "validatedAt": "2026-10-02T05:46:55.0639386+00:00",
       "selectionRevision": 1
     },
     {
@@ -527,7 +527,7 @@
         "KartPad-v0.7.3-ios-unsigned.ipa",
         "KartPad-v0.7.3-padmint.json"
       ],
-      "validatedAt": "2026-10-01T22:44:55.8921398+00:00",
+      "validatedAt": "2026-10-02T05:46:55.1612127+00:00",
       "selectionRevision": 1
     },
     {
@@ -538,7 +538,7 @@
       "assetNames": [
         "TriAevum-v0.6.0-alpha.2c-Windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:56.6777558+00:00",
+      "validatedAt": "2026-10-02T05:46:55.887183+00:00",
       "selectionRevision": 1
     },
     {
@@ -553,7 +553,7 @@
         "sm64coopdx_SteamOS.zip",
         "sm64coopdx_Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:56.850914+00:00",
+      "validatedAt": "2026-10-02T05:46:56.0451658+00:00",
       "selectionRevision": 1
     },
     {
@@ -567,7 +567,7 @@
         "CorsixTH-v0.70.1-x86_64.AppImage",
         "CorsixTHInstaller.exe"
       ],
-      "validatedAt": "2026-10-01T22:44:57.0156113+00:00",
+      "validatedAt": "2026-10-02T05:46:56.2301994+00:00",
       "selectionRevision": 1
     },
     {
@@ -581,7 +581,7 @@
         "3SX-93a63b4-macos.dmg",
         "3SX-93a63b4-windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:57.7933114+00:00",
+      "validatedAt": "2026-10-02T05:46:56.9825691+00:00",
       "selectionRevision": 1
     },
     {
@@ -593,19 +593,19 @@
         "ctr-native-beta-7.1-linux-x86.tar.gz",
         "ctr-native-beta-7_1-windows-x86.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:58.6128708+00:00",
+      "validatedAt": "2026-10-02T05:46:57.691887+00:00",
       "selectionRevision": 1
     },
     {
       "provider": "github",
       "repository": "cybervisi0n/pokeplatinum",
       "preferredRelease": null,
-      "releaseTag": "v0.1.7",
+      "releaseTag": "v0.1.8",
       "assetNames": [
         "release_linux.zip",
         "release_win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:58.7822259+00:00",
+      "validatedAt": "2026-10-02T05:46:57.8038845+00:00",
       "selectionRevision": 1
     },
     {
@@ -616,7 +616,7 @@
       "assetNames": [
         "beetle-adventure-racing-recomp-v0.4.2-alpha-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:58.9466645+00:00",
+      "validatedAt": "2026-10-02T05:46:57.9195013+00:00",
       "selectionRevision": 1
     },
     {
@@ -628,7 +628,7 @@
         "Pilotwings64Recomp-0.1.1-linux-x86_64.tar.gz",
         "Pilotwings64Recomp-0.1.1-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:59.1157516+00:00",
+      "validatedAt": "2026-10-02T05:46:58.0182288+00:00",
       "selectionRevision": 1
     },
     {
@@ -644,7 +644,7 @@
         "dethrace-v0.10.1-windows-x86.zip",
         "reccmp-output.txt"
       ],
-      "validatedAt": "2026-10-01T22:44:59.2934764+00:00",
+      "validatedAt": "2026-10-02T05:46:58.179171+00:00",
       "selectionRevision": 1
     },
     {
@@ -657,7 +657,7 @@
         "DinosaurPlanetRecompiled-v0.3.0-Linux-x64.tar.gz",
         "DinosaurPlanetRecompiled-v0.3.0-Windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:59.4732563+00:00",
+      "validatedAt": "2026-10-02T05:46:58.2987236+00:00",
       "selectionRevision": 1
     },
     {
@@ -668,7 +668,7 @@
       "assetNames": [
         "Initial.D.Arcade.Stage.3.Recompiled.v2489.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:59.6370339+00:00",
+      "validatedAt": "2026-10-02T05:46:58.4502605+00:00",
       "selectionRevision": 1
     },
     {
@@ -679,7 +679,7 @@
       "assetNames": [
         "keeperfx_1_4_0_complete.7z"
       ],
-      "validatedAt": "2026-10-01T22:44:59.7818838+00:00",
+      "validatedAt": "2026-10-02T05:46:58.59029+00:00",
       "selectionRevision": 1
     },
     {
@@ -691,7 +691,7 @@
         "RaceWave46-Source-v1.0.0.zip",
         "RaceWave46-Windows-x64-v1.0.0.zip"
       ],
-      "validatedAt": "2026-10-01T22:44:59.9519268+00:00",
+      "validatedAt": "2026-10-02T05:46:58.726194+00:00",
       "selectionRevision": 1
     },
     {
@@ -708,7 +708,7 @@
         "doukutsu-rs_windows_1.0.0.i686.exe",
         "doukutsu-rs_windows_1.0.0.x86_64.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:00.1595046+00:00",
+      "validatedAt": "2026-10-02T05:46:59.0089598+00:00",
       "selectionRevision": 1
     },
     {
@@ -722,7 +722,7 @@
         "ValkyrieRecomp-1.0.1-macos-x64.zip",
         "ValkyrieRecomp-1.0.1-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:00.3487834+00:00",
+      "validatedAt": "2026-10-02T05:46:59.1432098+00:00",
       "selectionRevision": 1
     },
     {
@@ -733,7 +733,7 @@
       "assetNames": [
         "BombermanRecomp-windows-x64-v0.1.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:00.5228339+00:00",
+      "validatedAt": "2026-10-02T05:46:59.2998219+00:00",
       "selectionRevision": 1
     },
     {
@@ -745,7 +745,7 @@
         "DKC1Recomp-v0.0.15-macOS-arm64-HD-Preview.zip",
         "DKC1Recomp-v0.0.17-Windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:00.7683986+00:00",
+      "validatedAt": "2026-10-02T05:46:59.5120465+00:00",
       "selectionRevision": 1
     },
     {
@@ -757,7 +757,7 @@
         "DKC2Recomp-v0.0.6-macOS-arm64.zip",
         "DKC2Recomp-v0.0.8-Windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:00.9372776+00:00",
+      "validatedAt": "2026-10-02T05:46:59.5990776+00:00",
       "selectionRevision": 1
     },
     {
@@ -769,7 +769,7 @@
         "DKC3Recomp-v0.0.4-macOS-arm64.zip",
         "DKC3Recomp-v0.0.6-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:01.1154558+00:00",
+      "validatedAt": "2026-10-02T05:46:59.7385412+00:00",
       "selectionRevision": 1
     },
     {
@@ -781,7 +781,7 @@
         "WaveRace64Recomp-0.4.0-macos.3-apple-silicon.zip",
         "WaveRace64Recomp-0.4.0-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:01.2876248+00:00",
+      "validatedAt": "2026-10-02T05:46:59.8935686+00:00",
       "selectionRevision": 1
     },
     {
@@ -794,7 +794,7 @@
         "SonicForever_1.5.1_Switch.zip",
         "SonicForever_1.5.1_Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:01.4546762+00:00",
+      "validatedAt": "2026-10-02T05:47:00.0409279+00:00",
       "selectionRevision": 1
     },
     {
@@ -805,7 +805,7 @@
       "assetNames": [
         "CannonballDX_1.04.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:01.6295624+00:00",
+      "validatedAt": "2026-10-02T05:47:00.1869767+00:00",
       "selectionRevision": 1
     },
     {
@@ -816,7 +816,7 @@
       "assetNames": [
         "DoomIIRPG.v0.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:01.8687746+00:00",
+      "validatedAt": "2026-10-02T05:47:00.3184506+00:00",
       "selectionRevision": 1
     },
     {
@@ -827,7 +827,7 @@
       "assetNames": [
         "DoomRPG_Port.-.v.0.2.2.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:02.040447+00:00",
+      "validatedAt": "2026-10-02T05:47:00.4451183+00:00",
       "selectionRevision": 1
     },
     {
@@ -839,7 +839,7 @@
         "WolfensteinRPG-x86_64.AppImage",
         "WolfensteinRPG.v0.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:02.212785+00:00",
+      "validatedAt": "2026-10-02T05:47:00.5687529+00:00",
       "selectionRevision": 1
     },
     {
@@ -856,7 +856,7 @@
         "sonic3air_mac_260328.dmg",
         "sonic3air_web_data.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:02.3790527+00:00",
+      "validatedAt": "2026-10-02T05:47:00.7151676+00:00",
       "selectionRevision": 1
     },
     {
@@ -868,7 +868,7 @@
         "KirbyWiiRecomp-Linux-x86_64.zip",
         "KirbyWiiRecomp-Windows-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:02.5837314+00:00",
+      "validatedAt": "2026-10-02T05:47:00.8526833+00:00",
       "selectionRevision": 1
     },
     {
@@ -879,7 +879,7 @@
       "assetNames": [
         "Tekken3Recomp_Release_Windows_x64_v2.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:02.7500735+00:00",
+      "validatedAt": "2026-10-02T05:47:01.0462494+00:00",
       "selectionRevision": 1
     },
     {
@@ -892,7 +892,7 @@
         "LodRecomp-v0.2.27-macos-arm64.zip",
         "LodRecomp-v0.2.27-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:02.9917744+00:00",
+      "validatedAt": "2026-10-02T05:47:01.2192716+00:00",
       "selectionRevision": 1
     },
     {
@@ -903,7 +903,7 @@
       "assetNames": [
         "DantesInfernoInstaller.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:03.1643266+00:00",
+      "validatedAt": "2026-10-02T05:47:01.4015152+00:00",
       "selectionRevision": 1
     },
     {
@@ -914,7 +914,7 @@
       "assetNames": [
         "xmd_installer.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:03.3895108+00:00",
+      "validatedAt": "2026-10-02T05:47:01.5094723+00:00",
       "selectionRevision": 1
     },
     {
@@ -928,7 +928,7 @@
         "rexglue-sdk-0.9.1-linux-amd64.zip",
         "rexglue-sdk-0.9.1-win-amd64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:03.5809968+00:00",
+      "validatedAt": "2026-10-02T05:47:01.6281927+00:00",
       "selectionRevision": 1
     },
     {
@@ -939,7 +939,7 @@
       "assetNames": [
         "ACGC-PC-Port0.9.3.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:04.4212234+00:00",
+      "validatedAt": "2026-10-02T05:47:02.3497395+00:00",
       "selectionRevision": 1
     },
     {
@@ -951,7 +951,7 @@
         "LostOdysseyRecomp-linux-x64-v0.7.25.AppImage",
         "LostOdysseyRecomp-windows-x64-v0.7.25.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:04.590202+00:00",
+      "validatedAt": "2026-10-02T05:47:02.4932478+00:00",
       "selectionRevision": 1
     },
     {
@@ -960,7 +960,7 @@
       "preferredRelease": null,
       "releaseTag": "",
       "assetNames": [],
-      "validatedAt": "2026-10-01T22:45:05.4801374+00:00",
+      "validatedAt": "2026-10-02T05:47:03.1755426+00:00",
       "selectionRevision": 1
     },
     {
@@ -971,7 +971,7 @@
       "assetNames": [
         "SotE-Recomp-0.9.2.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:05.6527191+00:00",
+      "validatedAt": "2026-10-02T05:47:03.3068367+00:00",
       "selectionRevision": 1
     },
     {
@@ -982,7 +982,7 @@
       "assetNames": [
         "XMenMA2-portable.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:05.8134178+00:00",
+      "validatedAt": "2026-10-02T05:47:03.4105706+00:00",
       "selectionRevision": 1
     },
     {
@@ -995,7 +995,7 @@
         "3SXW-1dd8515-macos.dmg",
         "3SXW-1dd8515-windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:05.973169+00:00",
+      "validatedAt": "2026-10-02T05:47:03.5427571+00:00",
       "selectionRevision": 1
     },
     {
@@ -1006,7 +1006,7 @@
       "assetNames": [
         "alphaBuildClean.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:06.2235042+00:00",
+      "validatedAt": "2026-10-02T05:47:03.7136078+00:00",
       "selectionRevision": 1
     },
     {
@@ -1020,7 +1020,7 @@
         "pvzge-macos-0.15.0.zip",
         "pvzge-lite-macos-0.15.0.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:07.1316361+00:00",
+      "validatedAt": "2026-10-02T05:47:04.4387265+00:00",
       "selectionRevision": 1
     },
     {
@@ -1036,7 +1036,7 @@
         "VandalHearts-v2.1.0-windows-x64.zip",
         "vandalhearts.ini"
       ],
-      "validatedAt": "2026-10-01T22:45:07.2951198+00:00",
+      "validatedAt": "2026-10-02T05:47:04.5931253+00:00",
       "selectionRevision": 1
     },
     {
@@ -1049,7 +1049,7 @@
         "2Ship-Battler-Bravo-Mac.zip",
         "2Ship-Battler-Bravo-Win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:07.6063937+00:00",
+      "validatedAt": "2026-10-02T05:47:04.8062746+00:00",
       "selectionRevision": 1
     },
     {
@@ -1064,7 +1064,7 @@
         "Nautilus-Alfa-Mac.zip",
         "Nautilus-Alfa-Win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:07.801994+00:00",
+      "validatedAt": "2026-10-02T05:47:04.9150288+00:00",
       "selectionRevision": 1
     },
     {
@@ -1077,7 +1077,7 @@
         "Lighthouse-Hatteras-Alfa-Mac.zip",
         "Lighthouse-Hatteras-Alfa-Win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:08.0083558+00:00",
+      "validatedAt": "2026-10-02T05:47:05.0272362+00:00",
       "selectionRevision": 1
     },
     {
@@ -1090,7 +1090,7 @@
         "Paperboat-Mulberry-Charlie-Mac.zip",
         "Paperboat-Mulberry-Charlie-Win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:08.1914118+00:00",
+      "validatedAt": "2026-10-02T05:47:05.1852502+00:00",
       "selectionRevision": 1
     },
     {
@@ -1103,7 +1103,7 @@
         "SoH-Ackbar-Delta-Mac.zip",
         "SoH-Ackbar-Delta-Win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:08.3407776+00:00",
+      "validatedAt": "2026-10-02T05:47:05.3226259+00:00",
       "selectionRevision": 1
     },
     {
@@ -1117,7 +1117,7 @@
         "spaghetti-mac-intel-x64.zip",
         "spaghetti-windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:08.5004582+00:00",
+      "validatedAt": "2026-10-02T05:47:05.4577773+00:00",
       "selectionRevision": 1
     },
     {
@@ -1130,7 +1130,7 @@
         "Starship-Barnard-Alfa-Switch.zip",
         "Starship-Barnard-Alfa-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:08.6730695+00:00",
+      "validatedAt": "2026-10-02T05:47:05.5585447+00:00",
       "selectionRevision": 1
     },
     {
@@ -1144,7 +1144,7 @@
         "HarvestMoon64Recompiled-v1.2.2-macOS.zip",
         "HarvestMoon64Recompiled-v1.2.2-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:08.8466772+00:00",
+      "validatedAt": "2026-10-02T05:47:05.7421966+00:00",
       "selectionRevision": 1
     },
     {
@@ -1155,18 +1155,18 @@
       "assetNames": [
         "UnleashedRecomp-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:09.0104216+00:00",
+      "validatedAt": "2026-10-02T05:47:05.8883197+00:00",
       "selectionRevision": 1
     },
     {
       "provider": "github",
       "repository": "hero88go/melee-unlocked",
       "preferredRelease": null,
-      "releaseTag": "v0.8.63",
+      "releaseTag": "v0.8.65",
       "assetNames": [
-        "MeleeUnlocked-0.8.63-win64.zip"
+        "MeleeUnlocked-0.8.65-win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:09.1815254+00:00",
+      "validatedAt": "2026-10-02T05:47:06.0258514+00:00",
       "selectionRevision": 1
     },
     {
@@ -1178,18 +1178,18 @@
         "TenchuSARecomp-v0.1.0-linux-x64.zip",
         "TenchuSARecomp-v0.1.0-x86_64.AppImage"
       ],
-      "validatedAt": "2026-10-01T22:45:09.3279775+00:00",
+      "validatedAt": "2026-10-02T05:47:06.1921226+00:00",
       "selectionRevision": 1
     },
     {
       "provider": "github",
       "repository": "himdo/fable-2-recomp",
       "preferredRelease": null,
-      "releaseTag": "1.3.0",
+      "releaseTag": "1.4.0",
       "assetNames": [
-        "Fable_2_recomp_v1.3.0_windows.zip"
+        "Fable_2_recomp_v1.4.0_windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:09.4962652+00:00",
+      "validatedAt": "2026-10-02T05:47:06.3627262+00:00",
       "selectionRevision": 1
     },
     {
@@ -1200,7 +1200,7 @@
       "assetNames": [
         "svr07.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:09.6622409+00:00",
+      "validatedAt": "2026-10-02T05:47:06.4991298+00:00",
       "selectionRevision": 1
     },
     {
@@ -1214,7 +1214,7 @@
         "dfu_windows_32bit-v1.1.1.zip",
         "dfu_windows_64bit-v1.1.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:09.8022022+00:00",
+      "validatedAt": "2026-10-02T05:47:06.6387436+00:00",
       "selectionRevision": 1
     },
     {
@@ -1245,7 +1245,7 @@
         "isle.vpk",
         "Isle_Portable-x86_64.AppImage"
       ],
-      "validatedAt": "2026-10-01T22:45:10.0784519+00:00",
+      "validatedAt": "2026-10-02T05:47:06.7750279+00:00",
       "selectionRevision": 1
     },
     {
@@ -1258,7 +1258,7 @@
         "Snap64Recomp-1.1.0-macos-universal.zip",
         "Snap64Recomp-1.1.0-win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:10.2480276+00:00",
+      "validatedAt": "2026-10-02T05:47:06.9254564+00:00",
       "selectionRevision": 1
     },
     {
@@ -1272,7 +1272,7 @@
         "RingOut-1.6.5-windows-x64-setup.exe",
         "RingOut-1.6.5-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:10.4172883+00:00",
+      "validatedAt": "2026-10-02T05:47:07.0575257+00:00",
       "selectionRevision": 1
     },
     {
@@ -1283,7 +1283,7 @@
       "assetNames": [
         "Vpw2Recompiled-v0.1.0-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:11.1995763+00:00",
+      "validatedAt": "2026-10-02T05:47:07.7655125+00:00",
       "selectionRevision": 1
     },
     {
@@ -1294,7 +1294,7 @@
       "assetNames": [
         "Vpw64Recompiled-v0.1.0-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:11.9957935+00:00",
+      "validatedAt": "2026-10-02T05:47:08.5081496+00:00",
       "selectionRevision": 1
     },
     {
@@ -1305,7 +1305,7 @@
       "assetNames": [
         "RevengeRecompiled-v0.1.1-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:12.7286059+00:00",
+      "validatedAt": "2026-10-02T05:47:09.0841882+00:00",
       "selectionRevision": 1
     },
     {
@@ -1316,7 +1316,7 @@
       "assetNames": [
         "WCWRecompiled-v0.1.2-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:13.4573734+00:00",
+      "validatedAt": "2026-10-02T05:47:09.8077613+00:00",
       "selectionRevision": 1
     },
     {
@@ -1327,7 +1327,7 @@
       "assetNames": [
         "NoMercyRecompiled-v0.1.1-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:14.2499683+00:00",
+      "validatedAt": "2026-10-02T05:47:10.4701242+00:00",
       "selectionRevision": 1
     },
     {
@@ -1338,7 +1338,7 @@
       "assetNames": [
         "Wm2kRecompiled-v0.1.0-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:15.0060194+00:00",
+      "validatedAt": "2026-10-02T05:47:11.1219516+00:00",
       "selectionRevision": 1
     },
     {
@@ -1350,7 +1350,7 @@
         "Linux.zip",
         "Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:15.1657546+00:00",
+      "validatedAt": "2026-10-02T05:47:11.2168293+00:00",
       "selectionRevision": 1
     },
     {
@@ -1362,7 +1362,7 @@
         "goldeneye-pc-port-0.4.0-linux-x86_64.tar.gz",
         "goldeneye-pc-port-0.4.0-win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:15.3581962+00:00",
+      "validatedAt": "2026-10-02T05:47:11.3393975+00:00",
       "selectionRevision": 1
     },
     {
@@ -1380,7 +1380,7 @@
         "BattleShip-x86_64.AppImage",
         "BattleShip.dmg"
       ],
-      "validatedAt": "2026-10-01T22:45:15.5447224+00:00",
+      "validatedAt": "2026-10-02T05:47:11.4940961+00:00",
       "selectionRevision": 1
     },
     {
@@ -1418,7 +1418,7 @@
         "augustus-4.0.0-vita.vpk",
         "augustus-4.0.0-windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:16.0725603+00:00",
+      "validatedAt": "2026-10-02T05:47:11.948706+00:00",
       "selectionRevision": 1
     },
     {
@@ -1431,7 +1431,7 @@
         "Rage-Racer-0.6.5-alpha-macos-arm64.zip",
         "Rage-Racer-0.6.5-alpha-windows-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:16.2434056+00:00",
+      "validatedAt": "2026-10-02T05:47:12.0602799+00:00",
       "selectionRevision": 1
     },
     {
@@ -1447,7 +1447,7 @@
         "Goemon64Recompiled-macOS-Release.zip",
         "Goemon64Recompiled-Windows-RelWithDebInfo.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:16.4018863+00:00",
+      "validatedAt": "2026-10-02T05:47:12.1836778+00:00",
       "selectionRevision": 1
     },
     {
@@ -1460,7 +1460,7 @@
         "Project.Reignition.Windows.v0.4.2.zip",
         "Run-in-D3D12-mode.bat"
       ],
-      "validatedAt": "2026-10-01T22:45:16.5739556+00:00",
+      "validatedAt": "2026-10-02T05:47:12.3100452+00:00",
       "selectionRevision": 1
     },
     {
@@ -1476,7 +1476,7 @@
         "Severed_Chains_Steam_Deck.tar.gz",
         "Severed_Chains_Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:16.9061099+00:00",
+      "validatedAt": "2026-10-02T05:47:12.6011639+00:00",
       "selectionRevision": 1
     },
     {
@@ -1489,7 +1489,7 @@
         "ogre-battle-64-recomp-macos-arm64.tar.gz",
         "ogre-battle-64-recomp-windows-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:17.0822678+00:00",
+      "validatedAt": "2026-10-02T05:47:12.7823035+00:00",
       "selectionRevision": 1
     },
     {
@@ -1503,7 +1503,7 @@
         "RoadRash64Recompiled-v1.4.2-Source.zip",
         "RoadRash64Recompiled-v1.4.2-Win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:17.3328297+00:00",
+      "validatedAt": "2026-10-02T05:47:12.9554737+00:00",
       "selectionRevision": 1
     },
     {
@@ -1514,7 +1514,7 @@
       "assetNames": [
         "DownpourRecomp-v1.1.8.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:17.5449118+00:00",
+      "validatedAt": "2026-10-02T05:47:13.0902855+00:00",
       "selectionRevision": 1
     },
     {
@@ -1525,7 +1525,7 @@
       "assetNames": [
         "DPRecomp-2.0.11-win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:17.7030602+00:00",
+      "validatedAt": "2026-10-02T05:47:13.23745+00:00",
       "selectionRevision": 1
     },
     {
@@ -1540,7 +1540,7 @@
         "TRX-1.11.1-Windows.zip",
         "TRX-1.11.1-Windows_Installer.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:17.891842+00:00",
+      "validatedAt": "2026-10-02T05:47:13.3533134+00:00",
       "selectionRevision": 1
     },
     {
@@ -1551,7 +1551,7 @@
       "assetNames": [
         "sst_rematch.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:18.0590337+00:00",
+      "validatedAt": "2026-10-02T05:47:13.4570514+00:00",
       "selectionRevision": 1
     },
     {
@@ -1562,7 +1562,7 @@
       "assetNames": [
         "SyphonFilterPC-0.1.0-public-test.16-win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:18.7266685+00:00",
+      "validatedAt": "2026-10-02T05:47:14.000038+00:00",
       "selectionRevision": 1
     },
     {
@@ -1575,7 +1575,7 @@
         "partyboard_alpha_0.2.0_x64.zip",
         "partyboard_alpha_0.2.0_x86.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:19.4624241+00:00",
+      "validatedAt": "2026-10-02T05:47:14.7040775+00:00",
       "selectionRevision": 1
     },
     {
@@ -1587,7 +1587,7 @@
         "redahm-win-x64.zip",
         "redahm.toml"
       ],
-      "validatedAt": "2026-10-01T22:45:19.6256439+00:00",
+      "validatedAt": "2026-10-02T05:47:14.8613557+00:00",
       "selectionRevision": 1
     },
     {
@@ -1598,7 +1598,7 @@
       "assetNames": [
         "renut-win-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:19.7910718+00:00",
+      "validatedAt": "2026-10-02T05:47:14.9855572+00:00",
       "selectionRevision": 1
     },
     {
@@ -1611,7 +1611,7 @@
         "CrashBandicoot-Linux",
         "CrashBandicoot.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:19.935458+00:00",
+      "validatedAt": "2026-10-02T05:47:15.1298557+00:00",
       "selectionRevision": 1
     },
     {
@@ -1623,7 +1623,7 @@
         "ReStuff-linux-x64.tar.gz",
         "restuff-win-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:20.0953753+00:00",
+      "validatedAt": "2026-10-02T05:47:15.2684011+00:00",
       "selectionRevision": 1
     },
     {
@@ -1636,7 +1636,7 @@
         "Skate3Recomp-macOS.zip",
         "Skate3Recomp-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:20.2716026+00:00",
+      "validatedAt": "2026-10-02T05:47:15.3945562+00:00",
       "selectionRevision": 1
     },
     {
@@ -1650,7 +1650,7 @@
         "MegaMan64Recompiled-v0.9.1-macOS.zip",
         "MegaMan64Recompiled-v0.9.1-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:20.5214494+00:00",
+      "validatedAt": "2026-10-02T05:47:15.5575246+00:00",
       "selectionRevision": 1
     },
     {
@@ -1663,7 +1663,7 @@
         "MikuPan_macos_nightly.zip",
         "MikuPan_windows_nightly.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:21.3986652+00:00",
+      "validatedAt": "2026-10-02T05:47:16.1865864+00:00",
       "selectionRevision": 1
     },
     {
@@ -1675,7 +1675,7 @@
         "ApeEscapeRecomp-v0.3.1-linux-x86_64.AppImage",
         "ApeEscapeRecomp-v0.3.1-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:21.5503467+00:00",
+      "validatedAt": "2026-10-02T05:47:16.2922322+00:00",
       "selectionRevision": 1
     },
     {
@@ -1686,7 +1686,7 @@
       "assetNames": [
         "DragonBallZBuusFuryRecomp-windows-x64-v0.0.3.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:21.7237101+00:00",
+      "validatedAt": "2026-10-02T05:47:16.4326458+00:00",
       "selectionRevision": 1
     },
     {
@@ -1700,7 +1700,7 @@
         "DrMarioRecomp-eu-windows-x64.zip",
         "DrMarioRecomp-usa-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:21.8678971+00:00",
+      "validatedAt": "2026-10-02T05:47:16.5591115+00:00",
       "selectionRevision": 1
     },
     {
@@ -1712,7 +1712,7 @@
         "EmeraldRecomp-linux-x86_64-v0.1.1.AppImage",
         "EmeraldRecomp-windows-x64-v0.1.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:22.0355163+00:00",
+      "validatedAt": "2026-10-02T05:47:16.6751388+00:00",
       "selectionRevision": 1
     },
     {
@@ -1724,7 +1724,7 @@
         "FireRedRecomp-windows-x64-v0.0.3.zip",
         "LeafGreenRecomp-windows-x64-v0.0.3.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:22.2007313+00:00",
+      "validatedAt": "2026-10-02T05:47:16.7897544+00:00",
       "selectionRevision": 1
     },
     {
@@ -1736,7 +1736,7 @@
         "FZeroSNESRecomp-1.8.3-windows-x64.zip",
         "FZeroSNESRecomp-linux-1.8.3-x86_64.AppImage"
       ],
-      "validatedAt": "2026-10-01T22:45:22.3645227+00:00",
+      "validatedAt": "2026-10-02T05:47:16.9735192+00:00",
       "selectionRevision": 1
     },
     {
@@ -1748,7 +1748,7 @@
         "MarioKartSuperCircuitRecomp-linux-x86_64-v0.1.2.AppImage",
         "MarioKartSuperCircuitRecomp-windows-x64-v0.1.2.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:22.5357466+00:00",
+      "validatedAt": "2026-10-02T05:47:17.0776882+00:00",
       "selectionRevision": 1
     },
     {
@@ -1759,7 +1759,7 @@
       "assetNames": [
         "MegaManX2SNESRecomp-windows-x64-v0.1.2.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:22.7180912+00:00",
+      "validatedAt": "2026-10-02T05:47:17.2218359+00:00",
       "selectionRevision": 1
     },
     {
@@ -1771,7 +1771,7 @@
         "MegaManX4Recomp-v0.0.5-alpha-linux-x86_64.AppImage",
         "MegaManX4Recomp-v0.0.5-alpha-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:22.9155193+00:00",
+      "validatedAt": "2026-10-02T05:47:17.3427153+00:00",
       "selectionRevision": 1
     },
     {
@@ -1783,7 +1783,7 @@
         "MegaManX5Recomp-v0.1.0-alpha-linux-x86_64.AppImage",
         "MegaManX5Recomp-v0.1.0-alpha-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:23.0723592+00:00",
+      "validatedAt": "2026-10-02T05:47:17.4622064+00:00",
       "selectionRevision": 1
     },
     {
@@ -1795,7 +1795,7 @@
         "MegaManX6Recomp-v1.1.0-linux-x86_64.AppImage",
         "MegaManX6Recomp-v1.1.0-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:23.2429489+00:00",
+      "validatedAt": "2026-10-02T05:47:17.634447+00:00",
       "selectionRevision": 1
     },
     {
@@ -1807,7 +1807,7 @@
         "MegaManXSNESRecomp-linux-1.6.6-x86_64.AppImage",
         "MegaManXSNESRecomp-windows-1.6.6.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:23.4018567+00:00",
+      "validatedAt": "2026-10-02T05:47:17.7795033+00:00",
       "selectionRevision": 1
     },
     {
@@ -1818,7 +1818,7 @@
       "assetNames": [
         "MegaManZeroRecomp-windows-x64-v0.0.6.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:23.5583287+00:00",
+      "validatedAt": "2026-10-02T05:47:17.9454252+00:00",
       "selectionRevision": 1
     },
     {
@@ -1830,7 +1830,7 @@
         "MetroidPrimeHuntersRecomp-linux-v0.7.3-x86_64.AppImage",
         "MetroidPrimeHuntersRecomp-windows-x64-v0.7.3.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:23.7347243+00:00",
+      "validatedAt": "2026-10-02T05:47:18.1112487+00:00",
       "selectionRevision": 1
     },
     {
@@ -1841,7 +1841,7 @@
       "assetNames": [
         "PokemonStadiumRecomp-v0.4.7-beta-win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:23.8888367+00:00",
+      "validatedAt": "2026-10-02T05:47:18.2428089+00:00",
       "selectionRevision": 1
     },
     {
@@ -1853,7 +1853,7 @@
         "RubyRecomp-windows-x64-v0.0.4.zip",
         "SapphireRecomp-windows-x64-v0.0.4.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:24.0966733+00:00",
+      "validatedAt": "2026-10-02T05:47:18.3991262+00:00",
       "selectionRevision": 1
     },
     {
@@ -1865,7 +1865,7 @@
         "SuperMarioWorldRecomp-linux-0.14.2-x86_64.AppImage",
         "SuperMarioWorldRecomp-windows-x64-v0.14.2.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:24.2676091+00:00",
+      "validatedAt": "2026-10-02T05:47:18.6052718+00:00",
       "selectionRevision": 1
     },
     {
@@ -1876,7 +1876,7 @@
       "assetNames": [
         "SuperMetroidSNESRecomp-windows-x64-v0.3.9.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:24.4218746+00:00",
+      "validatedAt": "2026-10-02T05:47:18.7254474+00:00",
       "selectionRevision": 1
     },
     {
@@ -1888,7 +1888,7 @@
         "Tomba2Recomp-v0.0.10-linux-x86_64.AppImage",
         "Tomba2Recomp-v0.0.10-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:24.5919677+00:00",
+      "validatedAt": "2026-10-02T05:47:18.9554749+00:00",
       "selectionRevision": 1
     },
     {
@@ -1900,7 +1900,7 @@
         "TombaRecomp-v0.14.1-alpha-linux-x86_64.AppImage",
         "TombaRecomp-v0.14.1-alpha-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:24.7411953+00:00",
+      "validatedAt": "2026-10-02T05:47:19.1096766+00:00",
       "selectionRevision": 1
     },
     {
@@ -1912,7 +1912,7 @@
         "DimensionsRecompiled-Setup.exe",
         "update-0.1.29.rxp"
       ],
-      "validatedAt": "2026-10-01T22:45:25.5793378+00:00",
+      "validatedAt": "2026-10-02T05:47:19.8447126+00:00",
       "selectionRevision": 1
     },
     {
@@ -1927,7 +1927,7 @@
         "strikers-switch.zip",
         "strikers-windows-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:25.7404623+00:00",
+      "validatedAt": "2026-10-02T05:47:20.0098384+00:00",
       "selectionRevision": 1
     },
     {
@@ -1944,7 +1944,7 @@
         "WaddleForever-Setup-1.5.1.exe.blockmap",
         "WaddleForeverClient-1.5.1.AppImage"
       ],
-      "validatedAt": "2026-10-01T22:45:25.9015574+00:00",
+      "validatedAt": "2026-10-02T05:47:20.1331238+00:00",
       "selectionRevision": 1
     },
     {
@@ -1958,7 +1958,7 @@
         "FinFanTacRecomp-setup-0.1.0-macos-x64.zip",
         "FinFanTacRecomp-setup-0.1.0-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:26.1321181+00:00",
+      "validatedAt": "2026-10-02T05:47:20.26622+00:00",
       "selectionRevision": 1
     },
     {
@@ -1969,7 +1969,7 @@
       "assetNames": [
         "wipeoutxl-0.1.0-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:26.2892907+00:00",
+      "validatedAt": "2026-10-02T05:47:20.3825859+00:00",
       "selectionRevision": 1
     },
     {
@@ -1981,7 +1981,7 @@
         "BloodyRoar2-linux-x64-0.7.1.zip",
         "BloodyRoar2-v0.7.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:26.4514623+00:00",
+      "validatedAt": "2026-10-02T05:47:20.528604+00:00",
       "selectionRevision": 1
     },
     {
@@ -1993,7 +1993,7 @@
         "DBZ-Budokai-3-HD-Collection-v1.3.0-linux-amd64.tar.gz",
         "DBZ-Budokai-3-HD-Collection-v1.3.0.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:26.6248063+00:00",
+      "validatedAt": "2026-10-02T05:47:20.7152932+00:00",
       "selectionRevision": 1
     },
     {
@@ -2006,7 +2006,7 @@
         "OpenApoc-debug-x64-20260408.zip",
         "OpenApoc-x64-20260408.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:26.776922+00:00",
+      "validatedAt": "2026-10-02T05:47:20.882737+00:00",
       "selectionRevision": 1
     },
     {
@@ -2020,7 +2020,7 @@
         "REDRIVER2_Win32_Release.zip",
         "REDRIVER2_Win32_Release_dev.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:27.103029+00:00",
+      "validatedAt": "2026-10-02T05:47:21.193778+00:00",
       "selectionRevision": 1
     },
     {
@@ -2034,7 +2034,7 @@
         "OpenLoco-v26.09-windows-portable-win32.zip",
         "OpenLoco-v26.09-windows-portable-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:27.2779101+00:00",
+      "validatedAt": "2026-10-02T05:47:21.3465176+00:00",
       "selectionRevision": 1
     },
     {
@@ -2056,7 +2056,7 @@
         "OpenRA-Tiberian-Dawn-x86_64.AppImage",
         "OpenRA-Tiberian-Dawn-x86_64.AppImage.zsync"
       ],
-      "validatedAt": "2026-10-01T22:45:27.5941395+00:00",
+      "validatedAt": "2026-10-02T05:47:21.6284459+00:00",
       "selectionRevision": 1
     },
     {
@@ -2079,7 +2079,7 @@
         "OpenRCT2-v0.5.5-windows-portable-win32.zip",
         "OpenRCT2-v0.5.5-windows-portable-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:27.7667965+00:00",
+      "validatedAt": "2026-10-02T05:47:21.7899892+00:00",
       "selectionRevision": 1
     },
     {
@@ -2092,7 +2092,7 @@
         "WiiCompiled-Setup-x86_64.AppImage",
         "WiiCompiled-Setup.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:27.9313872+00:00",
+      "validatedAt": "2026-10-02T05:47:21.90541+00:00",
       "selectionRevision": 1
     },
     {
@@ -2103,7 +2103,7 @@
       "assetNames": [
         "ufc3recomp-v1.0.2-win-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:28.1119053+00:00",
+      "validatedAt": "2026-10-02T05:47:22.0157702+00:00",
       "selectionRevision": 1
     },
     {
@@ -2120,7 +2120,7 @@
         "pd-x86_64-osx.tar.xz",
         "pd-x86_64-windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:28.3148808+00:00",
+      "validatedAt": "2026-10-02T05:47:22.2034906+00:00",
       "selectionRevision": 1
     },
     {
@@ -2131,7 +2131,7 @@
       "assetNames": [
         "Condemned2Recomp_v0.2.1_window.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:28.4618257+00:00",
+      "validatedAt": "2026-10-02T05:47:22.3580937+00:00",
       "selectionRevision": 1
     },
     {
@@ -2145,7 +2145,7 @@
         "SMAS_LAUNCHER_macOS.zip",
         "SMAS_LAUNCHER_Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:28.6191322+00:00",
+      "validatedAt": "2026-10-02T05:47:22.4627915+00:00",
       "selectionRevision": 1
     },
     {
@@ -2156,7 +2156,7 @@
       "assetNames": [
         "Super_Metroid_Launcher_v1-0.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:28.7711142+00:00",
+      "validatedAt": "2026-10-02T05:47:22.6266179+00:00",
       "selectionRevision": 1
     },
     {
@@ -2167,7 +2167,7 @@
       "assetNames": [
         "Zelda_3_Launcher_v1.3.6.0.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:28.9387289+00:00",
+      "validatedAt": "2026-10-02T05:47:22.7852524+00:00",
       "selectionRevision": 1
     },
     {
@@ -2178,7 +2178,7 @@
       "assetNames": [
         "ChameleonTwistJPRecompiled.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:29.1578576+00:00",
+      "validatedAt": "2026-10-02T05:47:22.9404712+00:00",
       "selectionRevision": 1
     },
     {
@@ -2192,7 +2192,7 @@
         "DK64Recompiled-macOS-ARM64-Release-1-0-3.zip",
         "DK64Recompiled-Windows-Release-1-0-3.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:29.3016347+00:00",
+      "validatedAt": "2026-10-02T05:47:23.0797105+00:00",
       "selectionRevision": 1
     },
     {
@@ -2203,7 +2203,7 @@
       "assetNames": [
         "Quest64Recompiledv0.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:29.471625+00:00",
+      "validatedAt": "2026-10-02T05:47:23.2071287+00:00",
       "selectionRevision": 1
     },
     {
@@ -2219,7 +2219,7 @@
         "BM64Recompiled-macOS-Release.zip",
         "BM64Recompiled-Windows-RelWithDebInfo.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:29.6361775+00:00",
+      "validatedAt": "2026-10-02T05:47:23.348004+00:00",
       "selectionRevision": 1
     },
     {
@@ -2235,7 +2235,7 @@
         "BMHeroRecompiled-macOS-Release.zip",
         "BMHeroRecompiled-Windows-RelWithDebInfo.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:30.366428+00:00",
+      "validatedAt": "2026-10-02T05:47:24.0986829+00:00",
       "selectionRevision": 1
     },
     {
@@ -2244,7 +2244,7 @@
       "preferredRelease": null,
       "releaseTag": "",
       "assetNames": [],
-      "validatedAt": "2026-10-01T22:45:31.157074+00:00",
+      "validatedAt": "2026-10-02T05:47:24.7201404+00:00",
       "selectionRevision": 1
     },
     {
@@ -2255,7 +2255,7 @@
       "assetNames": [
         "re-wor-v1.1.0.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:31.314985+00:00",
+      "validatedAt": "2026-10-02T05:47:24.8618554+00:00",
       "selectionRevision": 1
     },
     {
@@ -2270,7 +2270,7 @@
         "v3-windows-x64.zip",
         "v3-windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:31.4773195+00:00",
+      "validatedAt": "2026-10-02T05:47:24.9682211+00:00",
       "selectionRevision": 1
     },
     {
@@ -2281,7 +2281,7 @@
       "assetNames": [
         "ac6recomp-1.0.0-beta.2.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:32.2496326+00:00",
+      "validatedAt": "2026-10-02T05:47:25.6292578+00:00",
       "selectionRevision": 1
     },
     {
@@ -2292,7 +2292,7 @@
       "assetNames": [
         "Release.rar"
       ],
-      "validatedAt": "2026-10-01T22:45:32.4074389+00:00",
+      "validatedAt": "2026-10-02T05:47:25.7624209+00:00",
       "selectionRevision": 1
     },
     {
@@ -2303,7 +2303,7 @@
       "assetNames": [
         "release.rar"
       ],
-      "validatedAt": "2026-10-01T22:45:32.5551455+00:00",
+      "validatedAt": "2026-10-02T05:47:25.8905239+00:00",
       "selectionRevision": 1
     },
     {
@@ -2314,7 +2314,7 @@
       "assetNames": [
         "LegaiaRecomp-windows-x64-v0.1.7-diagnostic-playtest.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:33.3605344+00:00",
+      "validatedAt": "2026-10-02T05:47:26.562533+00:00",
       "selectionRevision": 1
     },
     {
@@ -2327,7 +2327,7 @@
         "Resident_Evil_Gaiden_Recomp_v0.4.1_Android.zip",
         "Resident_Evil_Gaiden_Recomp_v0.4.1_Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:33.5248831+00:00",
+      "validatedAt": "2026-10-02T05:47:26.6915383+00:00",
       "selectionRevision": 1
     },
     {
@@ -2339,7 +2339,7 @@
         "rechan-linux64.tar.gz",
         "rechan-win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:33.6915109+00:00",
+      "validatedAt": "2026-10-02T05:47:26.8580609+00:00",
       "selectionRevision": 1
     },
     {
@@ -2350,7 +2350,7 @@
       "assetNames": [
         "CTR-native-android.26.07.2026.apk"
       ],
-      "validatedAt": "2026-10-01T22:45:33.8716475+00:00",
+      "validatedAt": "2026-10-02T05:47:27.014639+00:00",
       "selectionRevision": 1
     },
     {
@@ -2368,7 +2368,7 @@
         "SHPC_beta-2026.09.27.1.zip",
         "SilentHill_Xbox_Beta_081226_3.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:34.0459013+00:00",
+      "validatedAt": "2026-10-02T05:47:27.1246075+00:00",
       "selectionRevision": 1
     },
     {
@@ -2379,7 +2379,7 @@
       "assetNames": [
         "PaperMarioReCut-v0.1.2-license-compliance.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:34.8193833+00:00",
+      "validatedAt": "2026-10-02T05:47:27.7952309+00:00",
       "selectionRevision": 1
     },
     {
@@ -2390,7 +2390,7 @@
       "assetNames": [
         "smw_0.1.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:34.9781639+00:00",
+      "validatedAt": "2026-10-02T05:47:27.9382879+00:00",
       "selectionRevision": 1
     },
     {
@@ -2402,7 +2402,7 @@
         "retip_1.13.0_linux.tar.xz",
         "retip_1.13.0_windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:35.1398739+00:00",
+      "validatedAt": "2026-10-02T05:47:28.084436+00:00",
       "selectionRevision": 1
     },
     {
@@ -2416,7 +2416,7 @@
         "Open_Nectar-x86_64.AppImage",
         "open_nectar_0.9.2.apk"
       ],
-      "validatedAt": "2026-10-01T22:45:35.4404829+00:00",
+      "validatedAt": "2026-10-02T05:47:28.3236192+00:00",
       "selectionRevision": 1
     },
     {
@@ -2430,7 +2430,7 @@
         "einhander-0.1.3-macos-x64.zip",
         "einhander-0.1.3-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:35.6051386+00:00",
+      "validatedAt": "2026-10-02T05:47:28.5354381+00:00",
       "selectionRevision": 1
     },
     {
@@ -2444,7 +2444,7 @@
         "sfex2p-0.1.0-macos-x64.zip",
         "sfex2p-0.1.0-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:35.799014+00:00",
+      "validatedAt": "2026-10-02T05:47:28.6511813+00:00",
       "selectionRevision": 1
     },
     {
@@ -2458,7 +2458,7 @@
         "strider-0.1.2-macos-x64.zip",
         "strider-0.1.2-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:35.9731912+00:00",
+      "validatedAt": "2026-10-02T05:47:28.8119773+00:00",
       "selectionRevision": 1
     },
     {
@@ -2469,7 +2469,7 @@
       "assetNames": [
         "doom64ex-plus-enhanced-1.0.0.1-win64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:36.1375063+00:00",
+      "validatedAt": "2026-10-02T05:47:29.0652872+00:00",
       "selectionRevision": 1
     },
     {
@@ -2480,7 +2480,7 @@
       "assetNames": [
         "GoldenEye-Recomp-Win.rar"
       ],
-      "validatedAt": "2026-10-01T22:45:36.3036799+00:00",
+      "validatedAt": "2026-10-02T05:47:29.1978131+00:00",
       "selectionRevision": 1
     },
     {
@@ -2501,7 +2501,7 @@
         "Taisei-1.4.6-windows-x86_64.zip",
         "taisei-1.4.6.tar.xz"
       ],
-      "validatedAt": "2026-10-01T22:45:36.5062281+00:00",
+      "validatedAt": "2026-10-02T05:47:29.3496302+00:00",
       "selectionRevision": 1
     },
     {
@@ -2516,7 +2516,7 @@
         "yakumo-0.6.0-alpha.4-macos-arm64.dmg",
         "yakumo-0.6.0-alpha.4-windows-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:36.6908685+00:00",
+      "validatedAt": "2026-10-02T05:47:29.5032113+00:00",
       "selectionRevision": 1
     },
     {
@@ -2530,7 +2530,7 @@
         "bfr-0.1.3-macos-x64.zip",
         "bfr-0.1.3-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:36.8930353+00:00",
+      "validatedAt": "2026-10-02T05:47:29.648957+00:00",
       "selectionRevision": 1
     },
     {
@@ -2544,7 +2544,7 @@
         "bombermanworld-0.1.21-macos-x64.zip",
         "bombermanworld-0.1.21-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:37.2006242+00:00",
+      "validatedAt": "2026-10-02T05:47:29.8674184+00:00",
       "selectionRevision": 1
     },
     {
@@ -2558,7 +2558,7 @@
         "bpe-0.3.18-macos-x64.zip",
         "bpe-0.3.18-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:37.3642779+00:00",
+      "validatedAt": "2026-10-02T05:47:30.0037301+00:00",
       "selectionRevision": 1
     },
     {
@@ -2572,7 +2572,7 @@
         "kdp-0.1.4-macos-x64.zip",
         "kdp-0.1.4-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:37.5268364+00:00",
+      "validatedAt": "2026-10-02T05:47:30.1641758+00:00",
       "selectionRevision": 1
     },
     {
@@ -2586,7 +2586,7 @@
         "mccsh-0.3.19-macos-x64.zip",
         "mccsh-0.3.19-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:37.674251+00:00",
+      "validatedAt": "2026-10-02T05:47:30.4498833+00:00",
       "selectionRevision": 1
     },
     {
@@ -2600,7 +2600,7 @@
         "motk-0.3.17-macos-x64.zip",
         "motk-0.3.17-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:37.8238964+00:00",
+      "validatedAt": "2026-10-02T05:47:30.6148896+00:00",
       "selectionRevision": 1
     },
     {
@@ -2614,7 +2614,7 @@
         "msx-0.1.21-macos-x64.zip",
         "msx-0.1.21-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:37.9904697+00:00",
+      "validatedAt": "2026-10-02T05:47:30.8333076+00:00",
       "selectionRevision": 1
     },
     {
@@ -2628,7 +2628,7 @@
         "rtt-0.1.23-macos-x64.zip",
         "rtt-0.1.23-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:38.1698438+00:00",
+      "validatedAt": "2026-10-02T05:47:31.0031855+00:00",
       "selectionRevision": 1
     },
     {
@@ -2642,7 +2642,7 @@
         "seijpb-0.1.3-macos-x64.zip",
         "seijpb-0.1.3-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:38.3222705+00:00",
+      "validatedAt": "2026-10-02T05:47:31.1255171+00:00",
       "selectionRevision": 1
     },
     {
@@ -2656,21 +2656,21 @@
         "sfa-0.2.16-macos-x64.zip",
         "sfa-0.2.16-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:38.4784023+00:00",
+      "validatedAt": "2026-10-02T05:47:31.3029659+00:00",
       "selectionRevision": 1
     },
     {
       "provider": "github",
       "repository": "technicallycomputers/twistedmetal4recomp",
       "preferredRelease": null,
-      "releaseTag": "v0.3.34",
+      "releaseTag": "v0.3.35",
       "assetNames": [
-        "twistedmetal4-0.3.34-linux-x64.zip",
-        "twistedmetal4-0.3.34-macos-arm64.zip",
-        "twistedmetal4-0.3.34-macos-x64.zip",
-        "twistedmetal4-0.3.34-windows-x64.zip"
+        "twistedmetal4-0.3.35-linux-x64.zip",
+        "twistedmetal4-0.3.35-macos-arm64.zip",
+        "twistedmetal4-0.3.35-macos-x64.zip",
+        "twistedmetal4-0.3.35-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:38.7111613+00:00",
+      "validatedAt": "2026-10-02T05:47:31.6299985+00:00",
       "selectionRevision": 1
     },
     {
@@ -2682,7 +2682,7 @@
         "DKR-R-1.0.5-beta.12-Linux-x86_64.AppImage",
         "DKR-R-1.0.5-beta.12-Windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:38.9049016+00:00",
+      "validatedAt": "2026-10-02T05:47:31.7659364+00:00",
       "selectionRevision": 1
     },
     {
@@ -2693,7 +2693,7 @@
       "assetNames": [
         "Dr.Mario.64.Recompiled-v1.0.0-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:39.098147+00:00",
+      "validatedAt": "2026-10-02T05:47:31.9357154+00:00",
       "selectionRevision": 1
     },
     {
@@ -2704,7 +2704,7 @@
       "assetNames": [
         "0.3.0-beta.1.rar"
       ],
-      "validatedAt": "2026-10-01T22:45:39.2483636+00:00",
+      "validatedAt": "2026-10-02T05:47:32.2500627+00:00",
       "selectionRevision": 1
     },
     {
@@ -2717,7 +2717,7 @@
         "Project8Recomp-v0.3.0-macos-arm64.zip",
         "Project8Recomp-v0.3.0-windows-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:39.4068874+00:00",
+      "validatedAt": "2026-10-02T05:47:32.3917875+00:00",
       "selectionRevision": 1
     },
     {
@@ -2728,7 +2728,7 @@
       "assetNames": [
         "ng2recomp-v1.1.7-win-amd64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:39.5640755+00:00",
+      "validatedAt": "2026-10-02T05:47:32.4993792+00:00",
       "selectionRevision": 1
     },
     {
@@ -2741,7 +2741,7 @@
         "TroubleMakers-Windows-X64.zip",
         "TroubleMakers-x86_64.AppImage"
       ],
-      "validatedAt": "2026-10-01T22:45:40.3702215+00:00",
+      "validatedAt": "2026-10-02T05:47:33.3621641+00:00",
       "selectionRevision": 1
     },
     {
@@ -2759,7 +2759,7 @@
         "Dusklight-v2.0.3-win32-arm64.zip",
         "Dusklight-v2.0.3-win32-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:40.5251469+00:00",
+      "validatedAt": "2026-10-02T05:47:33.4646212+00:00",
       "selectionRevision": 1
     },
     {
@@ -2773,7 +2773,7 @@
         "ygofm-0.6.2-macos-x64.zip",
         "ygofm-0.6.2-win-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:40.6918181+00:00",
+      "validatedAt": "2026-10-02T05:47:33.5777681+00:00",
       "selectionRevision": 1
     },
     {
@@ -2796,7 +2796,7 @@
         "VCMI-Windows-x86.exe",
         "VCMI-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:40.8957981+00:00",
+      "validatedAt": "2026-10-02T05:47:33.7155801+00:00",
       "selectionRevision": 1
     },
     {
@@ -2808,7 +2808,7 @@
         "War1gus-3.3.2.exe",
         "War1gus-portable-3.3.2.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:41.1941933+00:00",
+      "validatedAt": "2026-10-02T05:47:33.9370994+00:00",
       "selectionRevision": 1
     },
     {
@@ -2820,7 +2820,7 @@
         "Wargus-3.3.2.exe",
         "Wargus-portable-3.3.2.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:41.4996934+00:00",
+      "validatedAt": "2026-10-02T05:47:34.1940861+00:00",
       "selectionRevision": 1
     },
     {
@@ -2831,7 +2831,7 @@
       "assetNames": [
         "wipeout-x64-release.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:41.6586091+00:00",
+      "validatedAt": "2026-10-02T05:47:34.3071543+00:00",
       "selectionRevision": 1
     },
     {
@@ -2842,7 +2842,7 @@
       "assetNames": [
         "dbz1.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:41.8708148+00:00",
+      "validatedAt": "2026-10-02T05:47:34.4398505+00:00",
       "selectionRevision": 1
     },
     {
@@ -2856,7 +2856,7 @@
         "CaseWestRecomp-steamdeck-x86_64.tar.gz",
         "CaseWestRecomp-windows-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:42.0737815+00:00",
+      "validatedAt": "2026-10-02T05:47:34.598518+00:00",
       "selectionRevision": 1
     },
     {
@@ -2870,7 +2870,7 @@
         "CaseZeroRecomp-steamdeck-x86_64.tar.gz",
         "CaseZeroRecomp-windows-x86_64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:42.2430693+00:00",
+      "validatedAt": "2026-10-02T05:47:34.7231499+00:00",
       "selectionRevision": 1
     },
     {
@@ -2886,7 +2886,7 @@
         "Z3R-Launcher-windows-x64-setup.exe",
         "Z3R-Launcher-windows-x64.exe"
       ],
-      "validatedAt": "2026-10-01T22:45:42.4440272+00:00",
+      "validatedAt": "2026-10-02T05:47:34.8410294+00:00",
       "selectionRevision": 1
     },
     {
@@ -2900,21 +2900,21 @@
         "CutTheRopeDX-v2.45.2-Windows-x64.7z",
         "CutTheRopeDX-v2.45.2-x86_64.AppImage"
       ],
-      "validatedAt": "2026-10-01T22:45:42.619918+00:00",
+      "validatedAt": "2026-10-02T05:47:35.0281311+00:00",
       "selectionRevision": 1
     },
     {
       "provider": "github",
       "repository": "yestermester/thesimpsonsgamerecomp",
       "preferredRelease": null,
-      "releaseTag": "v0.0.6.1",
+      "releaseTag": "v0.0.6.2",
       "assetNames": [
         "TheSimpsonsGame-Recompiled-Linux-x64-NoAVX2.tar.gz",
         "TheSimpsonsGame-Recompiled-Linux-x64.tar.gz",
         "TheSimpsonsGame-Recompiled-Windows-x64-NoAVX2.zip",
         "TheSimpsonsGame-Recompiled-Windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:42.7943334+00:00",
+      "validatedAt": "2026-10-02T05:47:35.2106011+00:00",
       "selectionRevision": 1
     },
     {
@@ -2928,7 +2928,7 @@
         "gzdoom_4.14.2_amd64.deb",
         "gzdoom_4.14.2_arm64.deb"
       ],
-      "validatedAt": "2026-10-01T22:45:42.9583569+00:00",
+      "validatedAt": "2026-10-02T05:47:35.3521965+00:00",
       "selectionRevision": 1
     },
     {
@@ -2942,7 +2942,7 @@
         "Zelda64Recompiled-v1.2.2-macOS.zip",
         "Zelda64Recompiled-v1.2.2-Windows.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:43.1604902+00:00",
+      "validatedAt": "2026-10-02T05:47:35.454172+00:00",
       "selectionRevision": 1
     },
     {
@@ -2955,7 +2955,7 @@
         "reblue-1.2.1-win-amd64.zip",
         "reblue-1.2.1-x86_64.AppImage"
       ],
-      "validatedAt": "2026-10-01T22:45:43.3370409+00:00",
+      "validatedAt": "2026-10-02T05:47:35.6493139+00:00",
       "selectionRevision": 1
     },
     {
@@ -2967,7 +2967,7 @@
         "G-Diffuser-v1.1.0-linux-x64.tar.gz",
         "G-Diffuser-v1.1.0-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:43.5101374+00:00",
+      "validatedAt": "2026-10-02T05:47:35.7960438+00:00",
       "selectionRevision": 1
     },
     {
@@ -2978,7 +2978,7 @@
       "assetNames": [
         "Crash2Recompiled-0.9.5-windows-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:43.6762852+00:00",
+      "validatedAt": "2026-10-02T05:47:35.9311444+00:00",
       "selectionRevision": 1
     },
     {
@@ -2993,7 +2993,7 @@
         "LADXHD.Patcher.Lite-Linux-arm64",
         "LADXHD.Patcher.Lite-Windows"
       ],
-      "validatedAt": "2026-10-01T22:45:44.0035813+00:00",
+      "validatedAt": "2026-10-02T05:47:36.3502088+00:00",
       "selectionRevision": 1
     },
     {
@@ -3004,7 +3004,7 @@
       "assetNames": [
         "digimon-world-0.3.5-win-x64.zip"
       ],
-      "validatedAt": "2026-10-01T22:45:44.3395055+00:00",
+      "validatedAt": "2026-10-02T05:47:36.6677614+00:00",
       "selectionRevision": 1
     },
     {
@@ -3018,7 +3018,7 @@
         "DNZHRecompiled-0.0.3-macOS-Release",
         "DNZHRecompiled-0.0.3-Windows-RelWithDebInfo"
       ],
-      "validatedAt": "2026-10-01T22:45:44.6141731+00:00",
+      "validatedAt": "2026-10-02T05:47:36.874815+00:00",
       "selectionRevision": 1
     },
     {
@@ -3032,7 +3032,7 @@
         "ExtremeGRecompiled-v1.0.0-Linux-X64-Release",
         "ExtremeGRecompiled-v1.0.0-Linux-ARM64-Release"
       ],
-      "validatedAt": "2026-10-01T22:45:44.8085067+00:00",
+      "validatedAt": "2026-10-02T05:47:37.0943662+00:00",
       "selectionRevision": 1
     },
     {
@@ -3046,7 +3046,7 @@
         "MarioKart64Recompiled-v0.9.2-macOS-Release",
         "MarioKart64Recompiled-v0.9.2-Linux-ARM64-Release"
       ],
-      "validatedAt": "2026-10-01T22:45:44.9818662+00:00",
+      "validatedAt": "2026-10-02T05:47:37.2490238+00:00",
       "selectionRevision": 1
     },
     {
@@ -3060,7 +3060,7 @@
         "Starfox64Recompiled-v1.0.3-macOS-Release",
         "Starfox64Recompiled-v1.0.3-Windows-RelWithDebInfo"
       ],
-      "validatedAt": "2026-10-01T22:45:45.1839161+00:00",
+      "validatedAt": "2026-10-02T05:47:37.4484756+00:00",
       "selectionRevision": 1
     }
   ]
